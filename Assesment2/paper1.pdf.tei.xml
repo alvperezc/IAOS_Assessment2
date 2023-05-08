@@ -1,0 +1,4443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Burden of infectious disease studies in Europe and the United Kingdom: a review of methodological design choices</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Cambridge University Press (CUP)</publisher>
+				<availability status="unknown">
+					<p>Copyright Cambridge University Press (CUP)</p>
+				</availability>
+				<date type="published" when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName>
+								<forename type="first">Periklis</forename>
+								<surname>Charalampous</surname>
+							</persName>
+							<email>p.charalampous@erasmusmc.nl</email>
+							<idno type="ORCID">0000-0002-3460-4828</idno>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Juanita</forename>
+								<forename type="middle">A</forename>
+								<surname>Haagsma</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Lea</forename>
+								<forename type="middle">S</forename>
+								<surname>Jakobsen</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Vanessa</forename>
+								<surname>Gorasso</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Isabel</forename>
+								<surname>Noguer</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Alicia</forename>
+								<surname>Padron-Monedero</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Rodrigo</forename>
+								<surname>Sarmiento</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">João</forename>
+								<forename type="middle">Vasco</forename>
+								<surname>Santos</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Scott</forename>
+								<forename type="middle">A</forename>
+								<surname>Mcdonald</surname>
+							</persName>
+							<idno type="ORCID">0000-0003-0788-6011</idno>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Dietrich</forename>
+								<surname>Plass</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Grant</forename>
+								<forename type="middle">M A</forename>
+								<surname>Wyper</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Ricardo</forename>
+								<surname>Assunção</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Elena</forename>
+								<surname>Von Der Lippe</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Balázs</forename>
+								<surname>Ádám</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Ala'a</forename>
+								<surname>Alkerwi</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jalal</forename>
+								<surname>Arabloo</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Ana</forename>
+								<forename type="middle">Lúcia</forename>
+								<surname>Baltazar</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Boris</forename>
+								<surname>Bikbov</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Maria</forename>
+								<surname>Borrell-Pages</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Iris</forename>
+								<surname>Brus</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Genc</forename>
+								<surname>Burazeri</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Serafeim</forename>
+								<forename type="middle">C</forename>
+								<surname>Chaintoutis</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">José</forename>
+								<surname>Chen-Xu</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Nino</forename>
+								<surname>Chkhaberidze</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Seila</forename>
+								<surname>Cilovic-Lagarija</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Barbara</forename>
+								<surname>Corso</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Sarah</forename>
+								<surname>Cuschieri</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Carlotta</forename>
+								<surname>Di Bari</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Keren</forename>
+								<surname>Dopelt</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Mary</forename>
+								<surname>Economou</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Theophilus</forename>
+								<forename type="middle">I</forename>
+								<surname>Emeto</surname>
+							</persName>
+							<idno type="ORCID">0000-0002-3282-1861</idno>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Peter</forename>
+								<surname>Fantke</surname>
+							</persName>
+							<idno type="ORCID">0000-0001-7148-6982</idno>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Florian</forename>
+								<surname>Fischer</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Alberto</forename>
+								<surname>Freitas</surname>
+							</persName>
+							<idno type="ORCID">0000-0003-2113-9653</idno>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Juan</forename>
+								<forename type="middle">Manuel</forename>
+								<surname>García-González</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Federica</forename>
+								<surname>Gazzelloni</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Mika</forename>
+								<surname>Gissler</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Artemis</forename>
+								<surname>Gkitakou</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Hakan</forename>
+								<surname>Gulmez</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Sezgin</forename>
+								<surname>Gunes</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Sebastian</forename>
+								<surname>Haller</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Romana</forename>
+								<surname>Haneef</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Cesar</forename>
+								<forename type="middle">A</forename>
+								<surname>Hincapié</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Paul</forename>
+								<surname>Hynds</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jane</forename>
+								<surname>Idavain</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Milena</forename>
+								<surname>Ilic</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Irena</forename>
+								<surname>Ilic</surname>
+							</persName>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Gaetano</forename>
+								<surname>Isola</surname>
+							</persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of General Surgery</orgName>
+								<orgName type="department" key="dep2">Surgical-Medical Specialties</orgName>
+								<orgName type="department" key="dep3">School of Dentistry</orgName>
+								<orgName type="institution">University of Catania</orgName>
+								<address>
+									<region>Catania</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Zubair</forename>
+								<surname>Kabir</surname>
+							</persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Public Health &amp; Epidemiology</orgName>
+								<orgName type="department" key="dep2">School of Public Health</orgName>
+								<orgName type="institution">University College Cork</orgName>
+								<address>
+									<settlement>Cork</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Maria</forename>
+								<surname>Kamusheva</surname>
+							</persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Organization &amp; Economics of Pharmacy</orgName>
+								<orgName type="department" key="dep2">Faculty of Pharmacy</orgName>
+								<orgName type="institution">Medical University of Sofia</orgName>
+								<address>
+									<settlement>Sofia</settlement>
+									<country key="BG">Bulgaria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Pavel</forename>
+								<surname>Kolkhir</surname>
+							</persName>
+							<affiliation key="aff5">
+								<orgName type="department">Institute of Allergology</orgName>
+								<orgName type="institution" key="instit1">Charité -Universitätsmedizin Berlin</orgName>
+								<orgName type="institution" key="instit2">Freie Universität Berlin</orgName>
+								<orgName type="institution" key="instit3">and Humboldt-Universität zu Berlin</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Allergology and Immunology</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Naime</forename>
+								<forename type="middle">Meriç</forename>
+								<surname>Konar</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Polychronis</forename>
+								<surname>Kostoulas</surname>
+							</persName>
+							<affiliation key="aff8">
+								<orgName type="department">Faculty of Public Health</orgName>
+								<orgName type="laboratory">Laboratory of Epidemiology and Artificial Intelligence</orgName>
+								<orgName type="institution">University of Thessaly</orgName>
+								<address>
+									<settlement>Thessaly</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Mukhtar</forename>
+								<surname>Kulimbet</surname>
+							</persName>
+							<affiliation key="aff9">
+								<orgName type="institution" key="instit1">Health Research Institute</orgName>
+								<orgName type="institution" key="instit2">Al Farabi Kazakh National University</orgName>
+								<address>
+									<settlement>Almaty</settlement>
+									<country key="KZ">Kazakhstan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="institution">Atchabarov Scientific Research Institute of Fundamental Medicine</orgName>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">Asfendiyarov Kazakh National Medical University</orgName>
+								<address>
+									<settlement>Almaty</settlement>
+									<country key="KZ">Kazakhstan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Carlo</forename>
+								<surname>La Vecchia</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Paolo</forename>
+								<surname>Lauriola</surname>
+							</persName>
+							<affiliation key="aff13">
+								<orgName type="institution">Italian Network of Sentinel</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Miriam</forename>
+								<surname>Levi</surname>
+							</persName>
+							<idno type="ORCID">0000-0002-0086-3952</idno>
+							<affiliation key="aff15">
+								<orgName type="department">Department of Prevention</orgName>
+								<orgName type="institution" key="instit1">Epidemiology Unit</orgName>
+								<orgName type="institution" key="instit2">Local Health Authority Tuscany Centre</orgName>
+								<address>
+									<settlement>Florence</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Marjeta</forename>
+								<surname>Majer</surname>
+							</persName>
+							<affiliation key="aff16">
+								<orgName type="department" key="dep1">Andrija Štampar School of Public Health</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Zagreb</orgName>
+								<address>
+									<settlement>Zagreb</settlement>
+									<country key="HR">Croatia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Enkeleint</forename>
+								<forename type="middle">A</forename>
+								<surname>Mechili</surname>
+							</persName>
+							<affiliation key="aff17">
+								<orgName type="department" key="dep1">Clinic of Social and Family Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Crete</orgName>
+								<address>
+									<settlement>Crete</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff18">
+								<orgName type="department">Department of Healthcare</orgName>
+							</affiliation>
+							<affiliation key="aff19">
+								<orgName type="department">Faculty of Public Health</orgName>
+								<orgName type="institution">University of Vlora</orgName>
+								<address>
+									<settlement>Vlora</settlement>
+									<country key="AL">Albania</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Lorenzo</forename>
+								<surname>Monasta</surname>
+							</persName>
+							<idno type="ORCID">0000-0001-7774-548X</idno>
+							<affiliation key="aff20">
+								<orgName type="department">Institute of Maternal</orgName>
+								<orgName type="institution">Child Health -IRCCS Burlo Garofolo</orgName>
+								<address>
+									<settlement>Trieste</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Stefania</forename>
+								<surname>Mondello</surname>
+							</persName>
+							<affiliation key="aff21">
+								<orgName type="department">Department of Biomedical and Dental Sciences and Morphofunctional Imaging</orgName>
+								<orgName type="institution">University of Messina</orgName>
+								<address>
+									<settlement>Messina</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Javier</forename>
+								<surname>Muñoz Laguna</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Evangelia</forename>
+								<surname>Nena</surname>
+							</persName>
+							<affiliation key="aff22">
+								<orgName type="department">Medical School</orgName>
+								<orgName type="laboratory">Laboratory of Social Medicine</orgName>
+								<orgName type="institution">Democritus University of Thrace</orgName>
+								<address>
+									<settlement>Alexandroupolis</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Edmond</forename>
+								<forename type="middle">S W</forename>
+								<surname>Ng</surname>
+							</persName>
+							<affiliation key="aff23">
+								<orgName type="department">Faculty of Epidemiology and Population Health</orgName>
+								<orgName type="institution">London School of Hygiene &amp; Tropical Medicine</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Paul</forename>
+								<surname>Nguewa</surname>
+							</persName>
+							<affiliation key="aff24">
+								<orgName type="department">Department of Microbiology and Parasitology</orgName>
+								<orgName type="institution" key="instit1">ISTUN Institute of Tropical Health</orgName>
+								<orgName type="institution" key="instit2">IdiSNA (Navarra Institute for Health Research)</orgName>
+							</affiliation>
+							<affiliation key="aff25">
+								<orgName type="institution">University of Navarra</orgName>
+								<address>
+									<settlement>Pamplona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Vikram</forename>
+								<surname>Niranjan</surname>
+							</persName>
+							<affiliation key="aff26">
+								<orgName type="department">School of Public Health, Physiotherapy and Sport Sciences</orgName>
+								<orgName type="institution">University College Dublin</orgName>
+								<address>
+									<settlement>Dublin</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Iskra</forename>
+								<forename type="middle">Alexandra</forename>
+								<surname>Nola</surname>
+							</persName>
+							<affiliation key="aff16">
+								<orgName type="department" key="dep1">Andrija Štampar School of Public Health</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Zagreb</orgName>
+								<address>
+									<settlement>Zagreb</settlement>
+									<country key="HR">Croatia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Rónán</forename>
+								<surname>O'caoimh</surname>
+							</persName>
+							<affiliation key="aff27">
+								<orgName type="department">Department of Geriatric Medicine</orgName>
+								<orgName type="institution">Mercy University Hospital</orgName>
+								<address>
+									<settlement>Grenville Place, Cork City</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff28">
+								<orgName type="department">Department of Gerontology and Rehabilitation</orgName>
+								<orgName type="institution" key="instit1">University College Cork</orgName>
+								<orgName type="institution" key="instit2">St Finbarr&apos;s Hospital</orgName>
+								<address>
+									<addrLine>Douglas road, Cork City</addrLine>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Marija</forename>
+								<surname>Obradović</surname>
+							</persName>
+							<affiliation key="aff29">
+								<orgName type="department" key="dep1">Department of Preventive and Pediatric Dentistry</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Banja Luka</orgName>
+								<address>
+									<region>Bosnia, Herzegovina</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Elena</forename>
+								<surname>Pallari</surname>
+							</persName>
+							<affiliation key="aff30">
+								<orgName type="department">Health Innovation Network</orgName>
+								<orgName type="institution">Minerva House</orgName>
+								<address>
+									<addrLine>Montague Cl</addrLine>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Mariana</forename>
+								<surname>Peyroteo</surname>
+							</persName>
+							<affiliation key="aff31">
+								<orgName type="institution" key="instit1">Comprehensive Health Research Centre</orgName>
+								<orgName type="institution" key="instit2">NOVA Medical School</orgName>
+								<orgName type="institution" key="instit3">Universidade NOVA de Lisboa</orgName>
+								<address>
+									<settlement>Lisboa</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Vera</forename>
+								<surname>Pinheiro</surname>
+							</persName>
+							<affiliation key="aff32">
+								<orgName type="institution" key="instit1">Public Health Unit</orgName>
+								<orgName type="institution" key="instit2">Matosinhos Local Health Unit</orgName>
+								<address>
+									<settlement>Matosinhos</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff33">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution" key="instit1">CINTESIS -Centre for Health Technology and Services Research</orgName>
+								<orgName type="institution" key="instit2">University of Porto</orgName>
+								<address>
+									<settlement>Porto</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Nurka</forename>
+								<surname>Pranjic</surname>
+							</persName>
+							<affiliation key="aff34">
+								<orgName type="department" key="dep1">Department of Occupational Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Tuzla</orgName>
+								<address>
+									<settlement>Tuzla</settlement>
+									<country key="BA">Bosnia and Herzegovina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Miguel</forename>
+								<surname>Reina Ortiz</surname>
+							</persName>
+							<idno type="ORCID">0000-0003-3309-6881</idno>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Silvia</forename>
+								<surname>Riva</surname>
+							</persName>
+							<affiliation key="aff36">
+								<orgName type="department">Department of Psychology and Pedagogic Science</orgName>
+								<orgName type="institution">St Mary&apos;s University</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Cornelia</forename>
+								<forename type="middle">Melinda Adi</forename>
+								<surname>Santoso</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Milena</forename>
+								<surname>Santric Milicevic</surname>
+							</persName>
+							<affiliation key="aff38">
+								<orgName type="department" key="dep1">Institute of Social Medicine</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Tugce</forename>
+								<surname>Schmitt</surname>
+							</persName>
+							<affiliation key="aff39">
+								<orgName type="department">Department of International Health</orgName>
+								<orgName type="institution">Care and Public Health Research Institute -CAPHRI</orgName>
+							</affiliation>
+							<affiliation key="aff40">
+								<orgName type="department">Faculty of Health, Medicine and Life Sciences</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Niko</forename>
+								<surname>Speybroeck</surname>
+							</persName>
+							<affiliation key="aff41">
+								<orgName type="department">Institute of Health and Society (IRSS)</orgName>
+								<orgName type="institution">Université catholique de Louvain</orgName>
+								<address>
+									<settlement>Brussels</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Maximilian</forename>
+								<surname>Sprügel</surname>
+							</persName>
+							<affiliation key="aff42">
+								<orgName type="department">Department of Neurology</orgName>
+								<orgName type="institution">Friedrich-Alexander-Universität Erlangen-Nürnberg</orgName>
+								<address>
+									<settlement>Erlangen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Paschalis</forename>
+								<surname>Steiropoulos</surname>
+							</persName>
+							<affiliation key="aff43">
+								<orgName type="department" key="dep1">Department of Respiratory Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">Democritus University of Thrace</orgName>
+								<address>
+									<settlement>Alexandroupolis</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Aleksandar</forename>
+								<surname>Stevanovic</surname>
+							</persName>
+							<idno type="ORCID">0000-0003-4759-075X</idno>
+							<affiliation key="aff38">
+								<orgName type="department" key="dep1">Institute of Social Medicine</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Lau</forename>
+								<forename type="middle">Caspar</forename>
+								<surname>Thygesen</surname>
+							</persName>
+							<affiliation key="aff44">
+								<orgName type="institution" key="instit1">National Institute of Public Health</orgName>
+								<orgName type="institution" key="instit2">University of Southern Denmark</orgName>
+								<address>
+									<settlement>Copenhagen</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Fimka</forename>
+								<surname>Tozija</surname>
+							</persName>
+							<affiliation key="aff45">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">Saints Cyril and Methodius University of Skopje</orgName>
+								<address>
+									<settlement>Skopje</settlement>
+									<region>North Macedonia</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Brigid</forename>
+								<surname>Unim</surname>
+							</persName>
+							<affiliation key="aff46">
+								<orgName type="department" key="dep1">Department of Cardiovascular</orgName>
+								<orgName type="department" key="dep2">Endocrine-Metabolic Diseases and Aging</orgName>
+								<orgName type="department" key="dep3">96 Department of Internal Medicine</orgName>
+								<orgName type="institution">Istituto Superiore Di Sanità</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff47">
+								<orgName type="institution">Adnan Menderes University School of Medicine</orgName>
+								<address>
+									<settlement>Aydin</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Hilal</forename>
+								<surname>Bektaş Uysal</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Orsolya</forename>
+								<surname>Varga</surname>
+							</persName>
+							<affiliation key="aff48">
+								<orgName type="department" key="dep1">Department of Public Health and Epidemiology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Debrecen</orgName>
+								<address>
+									<settlement>Debrecen</settlement>
+									<country key="HU">Hungary</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Milena</forename>
+								<surname>Vasic</surname>
+							</persName>
+							<affiliation key="aff49">
+								<orgName type="department">Faculty of Dentistry Pancevo</orgName>
+								<orgName type="institution">University Business Academy in Novi Sad</orgName>
+								<address>
+									<settlement>Pancevo</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff50">
+								<orgName type="department">Institute of Public Health</orgName>
+								<orgName type="institution">Dr Milan Jovanović Batut</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country>Serbia, Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Rafael</forename>
+								<forename type="middle">José</forename>
+								<surname>Vieira</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Vahit</forename>
+								<surname>Yigit</surname>
+							</persName>
+							<affiliation key="aff51">
+								<orgName type="department">Department of Health Management</orgName>
+								<orgName type="institution">Suleyman Demirel University</orgName>
+								<address>
+									<settlement>Isparta</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Brecht</forename>
+								<surname>Devleesschauwer</surname>
+							</persName>
+							<affiliation key="aff52">
+								<orgName type="department">Department of Translational Physiology</orgName>
+							</affiliation>
+							<affiliation key="aff53">
+								<orgName type="department">Infectiology and Public Health</orgName>
+								<orgName type="institution">Ghent University</orgName>
+								<address>
+									<settlement>Merelbeke</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Sara</forename>
+								<forename type="middle">M</forename>
+								<surname>Pires</surname>
+							</persName>
+							<idno type="ORCID">0000-0002-7751-1509</idno>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Medical Sciences</orgName>
+								<orgName type="institution">University of Kragujevac</orgName>
+								<address>
+									<settlement>Kragujevac</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff14">
+								<address>
+									<settlement>Arezzo</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Burden of infectious disease studies in Europe and the United Kingdom: a review of methodological design choices</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Epidemiology and Infection</title>
+						<title level="j" type="abbrev">Epidemiol. Infect.</title>
+						<idno type="ISSN">0950-2688</idno>
+						<idno type="eISSN">1469-4409</idno>
+						<imprint>
+							<publisher>Cambridge University Press (CUP)</publisher>
+							<biblScope unit="volume">151</biblScope>
+							<date type="published" when="2023" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">1D981564FABF03B36A5C8D2AA7E427B4</idno>
+					<idno type="DOI">10.1017/s0950268823000031</idno>
+					<note type="submission">Received: 20 October 2022 Revised: 20 December 2022 Accepted: 22 December 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2023-05-03T20:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Burden of disease</term>
+					<term>disability-adjusted life years</term>
+					<term>infectious diseases</term>
+					<term>methodology</term>
+					<term>systematic review</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<div xmlns="http://www.tei-c.org/ns/1.0">
+					<p>This systematic literature review aimed to provide an overview of the characteristics and methods used in studies applying the disability-adjusted life years (DALY) concept for infectious diseases within European Union (EU)/European Economic Area (EEA)/European Free Trade Association (EFTA) countries and the United Kingdom. Electronic databases and grey literature were searched for articles reporting the assessment of DALY and its components. We considered studies in which researchers performed DALY calculations using primary epidemiological data input sources. We screened 3053 studies of which 2948 were excluded and 105 studies met our inclusion criteria. Of these studies, 22 were multi-country and 83 were single-country studies, of which 46 were from the Netherlands. Food-and water-borne diseases were the most frequently studied infectious diseases. Between 2015 and 2022, the number of burden of infectious disease studies was 1.6 times higher compared to that published between 2000 and 2014. Almost all studies (97%) estimated DALYs based on the incidence-and pathogen-based approach and without social weighting functions; however, there was less methodological consensus with regards to the disability weights and life tables that were applied. The number of burden of infectious disease studies undertaken across Europe has increased over time. Development and use of guidelines will promote performing burden of infectious disease studies and facilitate comparability of the results.</p>
+				</div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Introduction</head>
+				<p>Despite substantial progress in the prevention and treatment of infectious diseases, it is evident that the health impact of infectious diseases is still considerable worldwide. While the population health impact of some infectious diseases has decreased, new infectious diseases have emerged, such as the coronavirus disease 2019 (COVID- <ref type="bibr" target="#b20">19)</ref>, and there has also been an upsurge in other infectious diseases, such as the enterovirus D68 infections and scarlet fever <ref type="bibr" target="#b2">[1]</ref>
+					<ref type="bibr" target="#b3">[2]</ref>
+					<ref type="bibr" target="#b4">[3]</ref>
+					<ref type="bibr" target="#b5">[4]</ref>. In Europe, several factors have contributed to the altered landscape of many (re-)emerging infectious diseases with a significant impact on populations' health, including demographic changes such as population ageing, fertility, migration, zoonotic spillover events and environmental changes including climate change <ref type="bibr" target="#b6">[5]</ref>. The changes in the burden of infectious diseases call for population health metrics that allow for ranking and prioritisation between pathogens and guidance of surveillance systems.</p>
+				<p>Traditionally, the population health impact of infectious diseases has been quantified by the number of deaths and (lab) confirmed incident or prevalent cases attributable to a specific pathogen <ref type="bibr" target="#b7">[6]</ref>
+					<ref type="bibr" target="#b8">[7]</ref>
+					<ref type="bibr" target="#b9">[8]</ref>. However, the heterogeneity of the clinical course and mortality rates of infectious diseases and possible long-term disabilities resulting from infections underlines the importance of considering mortality and morbidity simultaneously when assessing and comparing the impact of infectious diseases on population health. A prominent metric of population health that integrates mortality and morbidity is the disability-adjusted life year (DALY) <ref type="bibr" target="#b10">[9]</ref>. This composite metric quantifies the health losses, by summing premature mortality, expressed in years of life lost due to premature mortality (YLL) and morbidity, expressed in years lived with disability (YLD) <ref type="bibr">[10,</ref>
+					<ref type="bibr" target="#b12">11]</ref>.
+				</p>
+				<p>To date, there have been three large-scale multi-country studies using the DALY metric to assess the impact of infectious diseases, namely the Burden of Communicable Diseases in Europe (BCoDE) <ref type="bibr" target="#b13">[12]</ref>, the Global Burden of Disease (GBD) study <ref type="bibr" target="#b14">[13]</ref> and the World Health Organization (WHO) Estimates of the Global Burden of Food-borne Diseases <ref type="bibr" target="#b15">[14]</ref>. The BCoDE study aimed to provide estimates of the current and future burden of infectious diseases in the European Union (EU) member states and European Economic Area/European Free Trade Association (EEA/EFTA) countries and the United Kingdom <ref type="bibr" target="#b13">[12]</ref>. The GBD study includes estimations of incidence, prevalence, mortality, YLL, YLD and DALY for numerous infectious diseases and aims to provide information on the disease burden trends across 204 countries and territories, by age, sex and year for 1990-2019 <ref type="bibr" target="#b14">[13]</ref>. Moreover, the WHO Food-borne Disease Burden Epidemiology Reference Group (WHO/FERG) studies aimed to estimate the global burden of food-borne diseases using epidemiological information gathered by over 30 hazards <ref type="bibr" target="#b15">[14,</ref>
+					<ref type="bibr" target="#b16">15]</ref>.
+				</p>
+				<p>However, the GBD, BCoDE and WHO/FERG studies have used different methodological approaches to estimate DALYs for infectious diseases. A major methodological choice relating to the YLD calculations of infectious disease is whether to use a prevalence-or incidence-based approach <ref type="bibr" target="#b17">[16,</ref>
+					<ref type="bibr" target="#b18">17]</ref>. The GBD study employs a prevalence-based approach which captures the current state of population health, by taking the prevalent cases at a specific point of time <ref type="bibr" target="#b14">[13]</ref>. In contrast, the BCoDE and WHO/FERG studies employ an incidence-based approach, capturing the current and projected future burden of infections by taking the newly diagnosed cases and the average duration until recovery or death <ref type="bibr" target="#b19">[18,</ref>
+					<ref type="bibr" target="#b20">19]</ref>. Furthermore, burden of infectious disease studies require a choice between an outcome-or pathogen-based approach. The GBD study follows an outcome-based approach which assigns the disease burden to clinically defined categories of health conditions and provides estimates of the burden of disease of major infectious disease-related outcomes, such as diarrhoea or lower respiratory infections, for aetiologies. For instance, the GBD study includes Campylobacter spp., as aetiology for diarrhoea, limiting the associated health states to diarrhoea <ref type="bibr" target="#b14">[13]</ref>. In contrast, the BCoDE and WHO/FERG studies follow a pathogen-based approach that aimed to capture major outcomes attributable to a specific pathogen, including sequelae <ref type="bibr" target="#b16">[15,</ref>
+					<ref type="bibr" target="#b19">[18]</ref>
+					<ref type="bibr" target="#b20">[19]</ref>
+					<ref type="bibr" target="#b21">[20]</ref>
+					<ref type="bibr" target="#b22">[21]</ref>. Another methodological choice relating to the YLD calculations is the set of disability weights that is applied to infectious-related health states. A disability weight reflects the relative severity of a health state with a value anchored between 0 (equivalent to full health) and 1 (equivalent to death). Several sets of disability weights are available, each reflecting different elicitation techniques <ref type="bibr" target="#b23">[22,</ref>
+					<ref type="bibr">23]</ref>. The GBD study applies the GBD 2013 set of disability weights <ref type="bibr" target="#b25">[24]</ref>, the BCoDE study applies the disability weights set for Europe <ref type="bibr" target="#b26">[25]</ref>, whereas the WHO/FERG studies used disability weights from the GBD 2010 and/or GBD 2013 studies <ref type="bibr" target="#b25">[24]</ref>. Other methodological differences include different choice of life tables <ref type="bibr" target="#b18">[17]</ref> and the use of social weighting functions, namely age-weighting (i.e. implies that value of life depends on age; a greater weight is assigned to deaths at younger ages and a lower weight to deaths at older ones) and time-discounting (i.e. implies a greater amount of DALYs when interventions apply in the present than in the future; this choice is mostly used for economic evaluations) <ref type="bibr" target="#b27">[26]</ref>. To calculate YLL, the value of ageconditional life expectancy is required and is usually yielded from national or aspirational life tables. The GBD, BCoDE and WHO/FERG studies use aspirational life tables which are unisex, abridged and allow for internationally comparable results <ref type="bibr" target="#b14">[13,</ref>
+					<ref type="bibr" target="#b19">18,</ref>
+					<ref type="bibr" target="#b20">19]</ref>. Social value choices were not applied in BCoDE and WHO/ FERG estimations, and from 2010 onwards, these have been dropped in GBD study estimates.</p>
+				<p>Parallel to these multi-country studies, many independent burden of infectious disease studies (i.e. studies for which researchers performed own YLL, YLD and/or DALY calculations using primary epidemiological input sources) have been conducted across Europe over the years. These studies have varied in terms of scope and methodologies applied. Previous systematic reviews of burden of disease studies, focused on non-communicable diseases and injuries, have revealed considerable variations in methodological approaches used in independent disease burden studies <ref type="bibr" target="#b28">[27]</ref>
+					<ref type="bibr" target="#b29">[28]</ref>
+					<ref type="bibr" target="#b30">[29]</ref>
+					<ref type="bibr" target="#b31">[30]</ref>
+					<ref type="bibr" target="#b32">[31]</ref>. Insight into these variations in methods is important since it affects the calculation, interpretation and comparability. Furthermore, an overview of methodological approaches of independent burden of infectious disease studies is currently lacking.</p>
+				<p>This systematic literature review aimed to provide an overview of the characteristics and methodologies that have been used in independent burden of infectious disease studies applying the DALY concept within EU/EEA/EFTA countries and the United Kingdom in order to identify methodological differences and provide future recommendations for conducting burden of infectious disease studies. The following key questions were addressed:</p>
+				<p>• In which countries have independent burden of infectious disease studies been performed? • For which infectious diseases have independent burden of infectious disease studies been performed? • Which methodological approaches have been used to assess mortality and morbidity in these independent studies? 2 Periklis Charalampous et al.</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Methods</head>
+				<p>This review was part of a series of systematic literature reviews undertaken by the European Burden of Disease Network <ref type="bibr" target="#b33">[32]</ref>. The burden-eu network aims to address challenges in disease burden estimates by identifying and comparing methods used in, and approaches towards, existing burden of disease studies. This review adheres to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) Statement <ref type="bibr" target="#b34">[33]</ref>. A protocol was registered on PROSPERO under ID CRD42020177477.</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Data sources and search strategy</head>
+				<p>With the assistance of a specialist librarian from the Erasmus MC, we searched for burden of disease studies using five electronic bibliographic databases, platforms and search engines in week 22, 2022. We also performed a manual search for grey literature via public health websites from all the EU/EEA/EFTA countries to retrieve governmental documents. To foster comprehensiveness in grey literature searches, we asked the burden-eu members to provide eligible grey literature from their countries. We also searched for grey literature via other websites which are included in the Supplementary Material. Finally, we checked the reference lists of eligible systematic reviews identified in the above searches. Details of the search strategy and list of the targeted EU/EEA/ EFTA countries and the United Kingdom and public health websites can be found in the Supplementary Material.</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Inclusion and exclusion criteria</head>
+				<p>We restricted our analysis to studies assessing the burden due to infectious diseases in terms of YLL, YLD and/or DALY, utilizing their own national or sub-national data based on primary data input sources. We included multi-national studies, as long as they fulfilled the criteria above. Since the DALY concept was introduced in the 'World Development Report 1993: Investing in Health' <ref type="bibr" target="#b35">[34]</ref>, we considered only disease burden studies published after January 1990. We considered studies in which the infection was defined as an illness due to a pathogen arising through transmission from an infected individual (i.e. human-human transmission), an infected animal (i.e. direct animal contact) or from other pathways (i.e. food, travel, etc.) <ref type="bibr" target="#b36">[35]</ref>.
+				</p>
+				<p>We excluded studies that performed secondary or systematic analyses based on the GBD estimates. We also excluded studies that did not assess the direct or indirect impact of infectious diseases or studies using health metrics other than YLL, YLD and/or DALY. For instance, we excluded studies that assessed potential years of life lost, and the probability of dying between an exact age-range as obtained from life tables. Moreover, we excluded studies that quantified disease burden attributable to risk factor exposure (e.g. outdoor air pollution, indoor smoke from solid fuel use, second-hand smoke, etc.). We also excluded letters to editor, editorials, correspondence or comments, as they lacked sufficient detail on characteristics and methodologies.</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Data screening and extraction</head>
+				<p>Two researchers (PC and VG) listed all the records obtained from the grey literature searches, reference checks and the burden-eu members, on an Excel spreadsheet. PC manually imported all these records to the EndNote X9 library provided by the Erasmus MC. After removing duplicates, PC and VG independently reviewed the resulting article titles (step 1) and abstracts (step 2) against the inclusion and exclusion criteria mentioned above. After this exclusion, PC and VG subsequently identified and screened potentially relevant burden of infectious disease studies upon full-text (step 3). When the two researchers disagreed on whether to include or exclude an article, they discussed their doubts with JH and LSJ.</p>
+				<p>Two researchers (PC and LSJ) critically appraised burden of infectious disease studies written in English using an adapted data extraction form developed for an earlier systematic review <ref type="bibr" target="#b25">[24]</ref>. For studies written in languages that could not be read by any of the reviewers, PC organised online meetings with native speakers to perform the data extraction. We extracted information relating to the following items: study characteristics (i.e. author, title, aim, year of publication, infectious disease category studied, reference country/region included) as well as methodological approaches used to calculate YLL (i.e. choice of life table) and/or YLD (i.e. incidencevs. prevalence-based approach and pathogenvs. outcome-based approach, disability weights and social weighting functions). Definitions of the extracted items can be found in the Supplementary Material. PC and LSJ compared, assessed and discussed the final version of the completed data extraction form. Discussions with JH resolved any possible doubts.</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Synthesis of findings</head>
+				<p>We classified studies according to their study characteristics (e.g. year of publication, geographical coverage and infectious disease covered). Studies performed within a single-country of the EU/ EEA/EFTA are referred to as 'single-country', whereas those that covered more than one country are referred to as 'multi-country'. Studies estimating the burden of, for example, food-borne pathogens (e.g. Salmonella spp. and/or shiga-toxin producing Escherichia coli O157) were classified in the 'foodand water-borne diseases' group. Studies estimating the burden of multiple infectious diseases (e.g. hepatitis C, psittacosis), where none was preventable by a vaccine, were classified in the 'other' group. Further details about the data synthesis can be found in the Supplementary Material. We adopted the same approach for a total of eight infectious-specific groups, namely 'COVID-19', 'foodand water-borne diseases', 'healthcare-associated infections', 'respiratory infections', 'sexually transmitted infections', 'vaccine-preventable diseases', 'zoonotic diseases' and 'other'. Definitions of these categories can also be found in the Supplementary Material.</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Results</head>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Literature search</head>
+				<p>We identified 3376 records through database, grey literature and citation searching. After removing duplicates (n = 323), we screened titles and abstracts from 3053 records. We assessed 459 full-text articles for eligibility having excluded 354 studies because they did not meet the inclusion criteria: 319 were excluded because other data input sources than those we specified were used; 28 were excluded because they reported results from the same study; and seven because other health metrics than YLL, YLD and/or DALY were used to express the burden of disease. Finally, we extracted information from 105 burden of infectious disease studies (Fig. <ref type="figure" target="#fig_0">1</ref>).
+				</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Epidemiology and Infection</head>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Study characteristics</head>
+				<p>Of the 105 burden of infectious disease studies included for review, 22 and 83 were performed at a multi-and single-country level, respectively (Fig. <ref type="figure" target="#fig_2">2</ref>).
+				</p>
+				<p>The number of single-country studies increased by 300% in the overall study period, from four (the Netherlands, Spain) in 2000-2004 to 16 (Belgium, Denmark, Germany, Ireland, Italy, Malta, the Netherlands, Scotland) in 2020-2022 (Fig. <ref type="figure" target="#fig_2">2</ref>). Over the 2000-2022 period, the largest number of studies was in the Netherlands (n = 46), with food-and water-borne diseases being the most studied (n = 15). Two EU/EEA/EFTA countries (Malta, Ireland) published their first independent infectious-specific calculations in the 2020-2022 period; these studies estimated the burden of COVID-19. The category of infectious disease that was studied also varied by country. Some countries (Belgium, Denmark, Italy, the Netherlands, Slovenia, Switzerland) estimated the burden of zoonotic diseases, whereas three countries (Germany, Italy, Switzerland) estimated the burden of healthcare-associated infections at a single-country level (Fig. <ref type="figure" target="#fig_2">2</ref>).
+				</p>
+				<p>The highest number of multi-country studies (n = 11) was seen in the 2015-2019 period; seven out of these 11 studies estimated the burden of food-and water-borne diseases. During the 2020-2022 period, the number of multi-country studies (n = 6) that estimated the burden of COVID-19 was slightly lower compared to those performed at a single-country level (n = 8).</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Methodological approaches for estimating YLL</head>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Choice of life table</head>
+				<p>In total, 102 out of the 105 included studies estimated YLL. More than half of these studies (63%) used aspirational life tables (i.e. GBD or WHO) to estimate YLL, whereas 33% used national or regional life tables. Four studies did not report the life table that was used to estimate YLL (Fig. <ref type="figure">3a</ref>).
+				</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Methodological approaches for estimating YLD</head>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Incidencevs. prevalence-based approach</head>
+				<p>In total, 95 out of the 105 included studies estimated YLD. Ninety-two studies (97%) estimated YLD based on the incidence approach (Fig. <ref type="figure">3b</ref>). A large proportion of these incidence-based studies estimated YLD for food-and water-borne diseases  Periklis Charalampous et al.</p>
+				<p>(39%) (Supplementary Material). Three studies estimated YLD using the prevalence-based approach (Fig. <ref type="figure">3b</ref>). These studies assessed the burden of sexually transmitted infections, namely hepatitis B and/or hepatitis C viruses (n = 2) and HIV/AIDS (n = 1) (Supplementary Material).</p>
+				<p>Pathogenvs. outcome-based approach Among the studies that performed incidence-based YLD calculations, the vast majority (97%) applied a pathogen-based approach, while two out of these studies did not report the approach used (Supplementary Material and Fig. <ref type="figure">3c</ref>). All studies that performed prevalence-based YLD calculations applied an outcome-based approach (3%) (Fig. <ref type="figure">3c</ref>).
+				</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Choice of disability weights</head>
+				<p>Most studies (48%) used the GBD disability weights. Also, 26% of the included studies used the European set of disability weights as recommended and applied by the BCoDE study; these studies were published after 2015 (Supplementary Material). Some studies used other disability weight sets such as the Dutch disability weights (20%), or a combination of existing disability weight sets (3%). The percentage of studies that applied Dutch disability weights decreased after the elicitation of the European disability weights in 2015, from 18% in the 2000-2014 period to 4% in the 2015-2022 period (Supplementary Material). Three studies (3%) did not report the disability weights that were used (Fig. <ref type="figure">3d</ref>).
+				</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Social weighting functions: use of age-weighting and time-discounting</head>
+				<p>Most of the identified studies (77%) did not apply age-weighting or time-discounting in their DALY estimations, while 17% applied age-weighting or time-discounting. Among studies that did, 10 (56%) performed scenario analyses by changing the rates of time-discounting, either by setting it to 0% (i.e. no time discounting), to 1.5% or to 3%. Most of these studies (n = 7)</p>
+				<p>were conducted in the Netherlands and were in line with the Dutch guidelines for health economic evaluations <ref type="bibr" target="#b31">[30,</ref>
+					<ref type="bibr" target="#b32">31]</ref>. Five studies used both age-weighting and time-discounting; out of these studies, four were published before 2011 and one in 2021 (Supplementary Material). Two studies applied age-weighting and no time-discounting functions, one study published in 2010 and the other in 2020 (Supplementary Material). Six studies did not report whether social weighting values had been applied in their estimations (Fig. <ref type="figure">3e</ref>).
+				</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Discussion</head>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Summary of findings and interpretation of results</head>
+				<p>This systematic literature review aimed to provide insights into the characteristics and DALY-specific methodological design choices that have been made in independent burden of infectious disease studies undertaken in EU/EEA/EFTA countries and the United Kingdom. In total, 105 studies met our inclusion criteria and were included for review. We observed that 15 out of the 32 targeted countries published disease burden estimates for infectious diseases at a single-country level. Over the 2000-2022 period, most studies were conducted in the Netherlands. Dutch public health experts have estimated national and sub-national disease burden estimates for a variety of infectious diseases, thereby introducing the DALY concept as a standard metric to their epidemiological research <ref type="bibr" target="#b37">[36]</ref>. In particular, the Center for Infectious Disease Control at the National Institute for Public Health and the Environment in the Netherlands (RIVM) has performed DALY calculations of infectious diseases on a routine basis by adjusting the parameter values for disease models in the BCoDE toolkit (i.e. a stand-alone software tool which allows estimation of DALYs for a number of infectious diseases) to better reflect the Dutch epidemiological situation <ref type="bibr" target="#b13">[12,</ref>
+					<ref type="bibr" target="#b38">37]</ref>. It should be noted that a potential limitation of using the exact same methodology to assess DALYs is that there is a risk of systematic under- estimation or over-estimation of the burden of a certain infectious disease. Each methodological choice has an impact on the resulting DALY estimation and by choosing a uniform methodology (e.g. disability weights, life expectancy) or epidemiological model (e.g. disease model, severity level distribution), these choices may not reflect the disease agent or study population, and as a result the DALY estimates will not reflect the true burden of disease.</p>
+				<p>We observed that some countries belonging to Central and Eastern Europe performed a small number of or no independent burden of infectious disease studies. This may in part reflect the limited resources for infectious disease research in many Eastern European countries. Another possible explanation may be that the quality of surveillance systems across European countries varies greatly, especially in terms of data availability, accessibility (e.g. patient characteristics, causative agent, number of cases Fig. <ref type="figure">3</ref>. Methodological approaches used to estimate YLL and YLD in independent burden of infectious disease studies, 2000-2022*. *Proportions for burden of infectious disease studies that included years of life lost calculations were reported for 102 out of 105 studies, while for those included years lived with disability were reported for 95 out of 105 studies.</p>
+				<p>and their severity, etc.) and timeliness of reporting <ref type="bibr" target="#b39">[38,</ref>
+					<ref type="bibr" target="#b40">39]</ref>. This can lead to challenges with accurate and timely reporting of the frequency, incidence and/or mortality of infectious diseases, particularly if these diseases are not notifiable in the country.</p>
+				<p>During the 2020-2022 period, the number of COVID-19 disease burden studies was 1.6 times higher compared to the number of studies estimating the burden of other infectious-related diseases. This focus was due to the alarming surge in COVID-19 cases. However, the focus on COVID-19 may have led to a decrease in the number of conducted, and thus documented, disease burden studies for other infectious diseases, such as sexually transmitted infections. The low number of burden of studies estimating the burden of sexually transmitted infections may be explained by heterogeneity in the coverage, completeness and repetitiveness of such data, previously reported across national reporting systems of most of the European countries <ref type="bibr" target="#b41">[40,</ref>
+					<ref type="bibr" target="#b42">41]</ref>.
+				</p>
+				<p>Another noteworthy observation was that almost all burden of COVID-19 studies followed consensus methodologies to estimate the impact of COVID-19 in EU/EEA/EFTA countries and the United Kingdom. The harmonisation of methods is attributable to the work of the COVID-19 Task Force of the burden-eu network, which aimed to support network members to estimate COVID-19 DALYs <ref type="bibr" target="#b43">(42)</ref>. The Task Force did this by, for instance, developing an open access protocol (available at: https://www.burden-eu.net/) providing guidance for researchers planning to estimate COVID-19 DALYs, which likely facilitated the number of burden of COVID-19 disease studies undertaken across Europe <ref type="bibr" target="#b43">[42]</ref>
+					<ref type="bibr" target="#b44">[43]</ref>
+					<ref type="bibr" target="#b45">[44]</ref>. In addition, it led to the harmonisation of design choices and align strategies that need to be made when estimating the burden of COVID-19. Such practical and educational tools are crucial for burden of disease research, because they considerably enhance the comparability of disease burden estimates. Briefly, all burden of COVID-19 disease studies estimated YLDs based on the incidence-and pathogen-based approach, using health states descriptions and disability weights from the GBD and/or European disability weights measurement studies, and YLLs based on aspirational life table standards. None of these studies applied age-weighting and time-discounting to estimate the impact of COVID-19 <ref type="bibr" target="#b43">[42]</ref>. Such consistencies in design choices produce comparable disease burden estimates and, in turn, allow for a quantification of the incurred disease burden, despite the preventative public health measures that were in place, adherence to these measures and available treatments. We therefore recommend the further development and use of protocols for performing burden of disease studies beyond COVID-19.</p>
+				<p>Furthermore, we observed that almost all burden of infectious disease studies estimating incidence-based YLDs have predominantly applied a pathogen-based approach and used aspirational life tables. With the incidence-and pathogen-based approach, the incidence of infectious diseases from a specific pathogen in a certain year is linked to all related potential health outcomes via a disease progression model (i.e. a schematic qualitative overview of the progression of an infection and its conditional frequency of occurrence in time). This allows for the estimation of the burden of those diseases considering the impact of different possible health outcomes, from acute and short-duration to longterm and/or late-onset sequelae. Therefore, to gain insight into the number of DALYs that can be averted by preventing a certain infectious disease, the pathogen-and incidence-based approach might be preferable to the prevalence-based approach when assessing YLD for infectious diseases. Based on this, we recommend that for future burden of infectious disease calculations a pathogen-and incidence-based approach is used. However, this may not be the preferred approach for infectious diseases that can have a duration of several years or even decades (e.g. certain sexually transmitted infections) and as such can be considered a chronic disease (e.g. hepatitis B, HIV/AIDS) <ref type="bibr" target="#b46">[45,</ref>
+					<ref type="bibr" target="#b47">46]</ref>.
+				</p>
+				<p>Linked to this choice is the use of aspirational life tables, as the pathogen-and incidence-based DALY estimates reflect current and future health loss due to a certain pathogen. However, using current (national) life tables to assess future health loss might lead to an underestimation of pathogen-and incidence-based infectious disease DALYs. Hence, aspirational life tables should be considered as the gold standard for pathogen-and incidencebased DALYs <ref type="bibr" target="#b43">[42]</ref>. Although aspirational life tables are based on aspirational mortality risks that may differ from those currently observed in various countries, they greatly facilitate comparisons with other diseases and injuries, and between different countries and across time periods. Aspirational life tables also have important ethical advantages (on grounds of equity), as they assume the same remaining life expectancy values for both males and females <ref type="bibr" target="#b48">[47,</ref>
+					<ref type="bibr" target="#b49">48]</ref>. We therefore recommend that burden of infectious disease studies that employ the pathogen-and incidence-based approach use aspirational life tables to assess DALYs.</p>
+				<p>We observed that, over the years, social weighting values have explicitly been omitted from most burden of infectious disease studies. However, several studies from the Netherlands present both undiscounted and discounted infectious disease DALYs. The time-discounting concept discounts the years of (healthy) life that would have been lived in the future at a rate of, for example, 3%. However, larger or smaller differences might be seen with other burden of disease estimates <ref type="bibr" target="#b27">[26,</ref>
+					<ref type="bibr" target="#b50">49]</ref>.
+				</p>
+				<p>The shift from the Dutch disability weights <ref type="bibr" target="#b51">[50]</ref> to the European disability weights <ref type="bibr" target="#b26">[25]</ref> for infectious YLD calculations, especially in disease burden studies published after 2015, is another noteworthy finding of this review. This shift can primarily be explained by the fact that the Dutch disability weights <ref type="bibr" target="#b51">[50]</ref> were derived in the 1990s and since then, the methods for deriving disability weights have evolved <ref type="bibr" target="#b23">[22]</ref>. Differences in methodologies to derive disability weights have an impact on the actual value of disability weights, thereby inhibiting comparability with other burden of disease studies, as well as the validity and reproducibility of disability weights. Over the years, new sets of disability weights have been derived based on newer techniques, including the set of European disability weights <ref type="bibr" target="#b23">[22,</ref>
+					<ref type="bibr" target="#b26">25]</ref>. However, there were some variations in disability weights between and within European countries <ref type="bibr" target="#b52">[51]</ref>. For future burden of infectious disease studies undertaken in Europe, we recommend that the European set of disability weights are used, since they are derived based on the most recent elicitation techniques and cover a wide range of infectious disease-related health states. Methodological design choices of burden of infectious disease studies are more consistent compared to those that have been used in non-communicable and injury burden of disease studies <ref type="bibr" target="#b30">[29,</ref>
+					<ref type="bibr" target="#b31">30]</ref>. An explanation for this finding may be that most of the studies that were included in our review were from the same country and mostly the same research teams. Furthermore, the BCoDE and WHO/FERG studies and their deliverables, including reports that explain the DALY methodological choices <ref type="bibr" target="#b19">[18]</ref>
+					<ref type="bibr" target="#b20">[19]</ref>
+					<ref type="bibr" target="#b21">[20]</ref> and a calculation and reporting toolkit <ref type="bibr" target="#b13">[12]</ref>, may have facilitated harmonisation of infectious disease burden methods. The development of a guide to estimate COVID-19 DALYs was also crucial and in turn advanced harmonisation and quality of reporting of the burden of COVID-19 studies <ref type="bibr" target="#b45">[44]</ref>.
+				</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Epidemiology and Infection</head>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Strengths and limitations</head>
+				<p>Although we have reviewed a variety of electronic databases, platforms and search engines; grey literature searches may have been limited. Nevertheless, independent burden of infectious disease studies in EU/EEA/EFTA countries and the United Kingdom have been identified and categorised by study characteristics resulting in an overview of DALY-specific methodological design choices that were used in burden of infectious disease studies over the period from 2000 to 2022. Moreover, in contrast to what is systematically performed in literature review, we did not perform a risk of bias assessment of the included burden of infectious disease studies, since the existing assessment tools were not suitable for evaluating the quality of burden of disease studies.</p>
+			</div>
+			<div xmlns="http://www.tei-c.org/ns/1.0">
+				<head>Conclusions</head>
+				<p>The number of independent burden of infectious disease studies across Europe increased over time. The most studied infectious diseases were food-and water-borne-related diseases, with the Netherlands publishing the highest number of these studies. In Eastern Europe a very low number of burden of infectious disease studies have been performed, underlining that there is a merit in improving surveillance, data collection and capacity building. Moreover, disease models should be improved for infectious diseases with higher burden, as well as those infectious disease that are less well studied. The high consistency in methodological design choices highlights the importance of burden of disease tools and guidelines. The European Burden of Disease Network aims to develop reporting guidelines for conducting burden of disease studies.</p>
+				<p>Supplementary material. The supplementary material for this article can be found at https://doi.org/10.1017/S0950268823000031.</p>
+			</div>
+			<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0">
+				<head>Fig. 1 .</head>
+				<label>1</label>
+				<figDesc>Fig. 1. Flowchart of the literature search and study selection.</figDesc>
+				<graphic coords="4,50.23,66.73,491.98,402.80" type="bitmap" />
+			</figure>
+			<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1">
+				<head>4</head>
+				<label>4</label>
+				<figDesc></figDesc>
+			</figure>
+			<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2">
+				<head>Fig. 2 .</head>
+				<label>2</label>
+				<figDesc>Fig.2. Number of single-country and multi-country independent burden of infectious disease studies per year of publication, geographic coverage and infectious cause category studied.</figDesc>
+				<graphic coords="5,53.07,66.73,491.98,242.02" type="bitmap" />
+			</figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">Epidemiology and Infection</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+				<div xmlns="http://www.tei-c.org/ns/1.0">
+					<p>Acknowledgements. The authors wish to thank Maarten Engel from the Erasmus MC Medical Library for developing and updating the search strategies. The authors would also like to acknowledge the networking support from COST Action CA18218 (European Burden of Disease Network; www. burden-eu.net), supported by COST (European Cooperation in Science and Technology; www.cost.eu).</p>
+				</div>
+			</div>
+
+
+			<div type="availability">
+				<div xmlns="http://www.tei-c.org/ns/1.0">
+					<p>Data availability statement. Not applicable.</p>
+					<p>1</p>
+				</div>
+			</div>
+
+
+			<div type="funding">
+				<div xmlns="http://www.tei-c.org/ns/1.0">
+					<p>Physicians for the Environment (RIMSA), International Society Doctors for the Environment (ISDE), Federazione Nazione Ordine dei Medici (FNOMCeO),</p>
+				</div>
+			</div>
+
+			<div type="annex">
+				<div xmlns="http://www.tei-c.org/ns/1.0">
+					<p>Author contributions. PC, JH and SMP developed the study design; PC, VG and LSJ performed the screening and/or data extraction; PC, JH, SMP, LSJ, VG, BD, SM, GMAW, DP and JVS analysed and interpreted the data; PC and JH drafted the manuscript. All authors read, critically revised the manuscript and approved the final manuscript.</p>
+					<p>Financial support. This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors.</p>
+				</div>
+				<div xmlns="http://www.tei-c.org/ns/1.0">
+					<head>Consent for publication. Not applicable.</head>
+					<p>Conflict of interest. The authors declare that they have no competing interests.</p>
+				</div>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+					<biblStruct xml:id="b0">
+						<analytic>
+							<title level="a" type="main">Self-rated health and oral health in type 2 diabetic patients – a case-control study</title>
+							<author>
+								<persName>
+									<forename type="first">José</forename>
+									<surname>Frias-Bulhosa</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Maria</forename>
+									<surname>Manso</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Carla</forename>
+									<surname>Mota</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Paulo</forename>
+									<surname>Melo</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.24873/j.rpemd.2018.11.423</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Revista Portuguesa de Estomatologia, Medicina Dentária e Cirurgia Maxilofacial</title>
+							<title level="j" type="abbrev">j.rpemd</title>
+							<idno type="ISSN">1646-2890</idno>
+							<idno type="ISSNe">1647-6700</idno>
+							<imprint>
+								<biblScope unit="volume">59</biblScope>
+								<biblScope unit="issue">4</biblScope>
+								<date type="published" when="2018-12-30">19</date>
+								<publisher>Sociedade Portuguesa de Estomatologia e Medicina Dentaria (SPEMD)</publisher>
+							</imprint>
+							<respStmt>
+								<orgName>Department of Public Health, Erasmus MC University Medical Center, Rotterdam, The Netherlands; 2 National Food Institute, Technical University of Denmark, Lyngby, Denmark; 3 Department of Public Health and Primary Care, Ghent University, Ghent, Belgium; 4 Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium; 5 National School of Public Health, Carlos III Institute of Health, Madrid, Spain; 6 Medicine School, University of Applied and Environmental Sciences ; CINTESIS@RISE -Centre for Health Technology and Services Research, Health Research Network, Faculty of Medicine of the University of Porto ; University of Porto, Porto, Portugal; 9 Public Health Unit, Agrupamentos de Centro de Saúde Grande Porto V -Porto Ocidental, Administração Regional de Saúde do Norte ; Department for Exposure Assessment and Environmental Health Indicators, German Environment Agency ; School of Health &amp; Wellbeing, University of Glasgow ; Food and Nutrition Department, National Institute of Health Dr. Ricardo Jorge ; Department of Epidemiology and Health Monitoring ; Robert Koch Institute ; Institute of Public Health, College of Medicine and Health Sciences, United Arab Emirates University, Al Ain ; Health Management Research Institute, Iran University of Medical Sciences ; Faculty of Medicine, University of Medicine ; 22 Diagnostic Laboratory, School of Veterinary Medicine, Faculty of Health Sciences, Aristotle University of Thessaloniki</orgName>
+							</respStmt>
+						</monogr>
+						<note>Cardiovascular Program ICCC, Institut d&apos;Investigació Biomèdica Sant Pau (IIB-Sant Pau)</note>
+					</biblStruct>
+
+					<biblStruct xml:id="b1">
+						<analytic>
+							<title level="a" type="main">Political will against funds deficiency: Health promotion for older people in Bulgaria</title>
+							<author>
+								<persName>
+									<forename type="first">Milena</forename>
+									<surname>Pavlova</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Elka</forename>
+									<surname>Atanasova</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Emanuela</forename>
+									<surname>Moutafova</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Agnieszka</forename>
+									<surname>Sowa</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Iwona</forename>
+									<surname>Kowalska-Bobko</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alicja</forename>
+									<surname>Domagała</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Stanisława</forename>
+									<surname>Golinowska</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Wim</forename>
+									<surname>Groot</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.4467/20842627oz.17.011.6237</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Zdrowie Publiczne i Zarządzanie</title>
+							<title level="j" type="abbrev">OZ</title>
+							<idno type="ISSNe">2084-2627</idno>
+							<imprint>
+								<biblScope unit="volume">15</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<date type="published" when="2017-01-30" />
+								<publisher>Uniwersytet Jagiellonski - Wydawnictwo Uniwersytetu Jagiellonskiego</publisher>
+							</imprint>
+							<respStmt>
+								<orgName>NOVA National School of Public Health, Public Health Research Centre, Universidade NOVA de Lisboa, Lisbon, Portugal; 24 Public Health Unit, Primary Health Care Cluster Baixo Mondego, Coimbra, Portugal; 25 Department of Medical Statistics, National Center for Disease Control and Public Health of Georgia ; 27 Neuroscience Institute, National Research Council, Padova, Italy; 28 Department of Anatomy, Faculty of Medicine and Surgery, University of Malta, Msida, Malta; 29 Department of Public Health, Ashkelon Academic College, Ashkelon, Israel; 30 Department of Health Policy and Management, School of Public Health, Faculty of Health Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel; 31 Department of Nursing, School of Health Sciences, Cyprus University of Technology ; James Cook University ; James Cook University ; James Cook University ; Quantitative Sustainability Assessment, Department of Environmental and Resource Engineering, Technical University of Denmark ; Institute of Public Health, Charité -Universitätsmedizin Berlin ; Department of Sociology, Universidad Pablo de Olavide ; Department of Knowledge Brokers, Finnish Institute for Health and Welfare (THL) ; Department of Molecular Medicine and Surgery, Karolinska Institute ; Research Centre for Child Psychiatry and Invest Research Flagship, University of Turku ; Department of Internal Medicine and Epidemiology, Erasmus MC University Medical Center ; Department of Family Medicine, Faculty of Medicine, İzmir Democracy University ; Department of Multidisciplinary Molecular Medicine, Graduate Institute, Ondokuz Mayis University ; Department of Medical Biology, Medical Faculty, Ondokuz Mayis University ; UZWH Musculoskeletal Epidemiology Research Group, University of Zurich and Balgrist University Hospital ; Biostatistics and Prevention Institute (EBPI), University of Zurich ; University Spine Centre Zurich (UWZH), Balgrist University Hospital, University of Zurich ; Sustainability and Health Institute, Technological University Dublin ; Department of Health Statistics, National Institute for Health Development</orgName>
+							</respStmt>
+						</monogr>
+						<note>Georgia. 52 Environmental. Department of Epidemiology, Faculty of References</note>
+					</biblStruct>
+
+					<biblStruct xml:id="b2">
+						<analytic>
+							<title level="a" type="main">Resurgence of scarlet fever in England, 2014–16: a population-based surveillance study</title>
+							<author>
+								<persName>
+									<forename type="first">Theresa</forename>
+									<surname>Lamagni</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Rebecca</forename>
+									<surname>Guy</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Meera</forename>
+									<surname>Chand</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Katherine</forename>
+									<forename type="middle">L</forename>
+									<surname>Henderson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Victoria</forename>
+									<surname>Chalker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">James</forename>
+									<surname>Lewis</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Vanessa</forename>
+									<surname>Saliba</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alex</forename>
+									<forename type="middle">J</forename>
+									<surname>Elliot</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Gillian</forename>
+									<forename type="middle">E</forename>
+									<surname>Smith</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Stephen</forename>
+									<surname>Rushton</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Elizabeth</forename>
+									<forename type="middle">A</forename>
+									<surname>Sheridan</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mary</forename>
+									<surname>Ramsay</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alan</forename>
+									<forename type="middle">P</forename>
+									<surname>Johnson</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/s1473-3099(17)30693-x</idno>
+						</analytic>
+						<monogr>
+							<title level="j">The Lancet Infectious Diseases</title>
+							<title level="j" type="abbrev">The Lancet Infectious Diseases</title>
+							<idno type="ISSN">1473-3099</idno>
+							<imprint>
+								<biblScope unit="volume">18</biblScope>
+								<biblScope unit="issue">2</biblScope>
+								<biblScope unit="page" from="180" to="187" />
+								<date type="published" when="2018-02">2018</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b3">
+						<analytic>
+							<title level="a" type="main">Co-circulation of multiple enterovirus D68 subclades, including a novel B3 cluster, across Europe in a season of expected low prevalence, 2019/20</title>
+							<author>
+								<persName>
+									<forename type="first">Sofie</forename>
+									<forename type="middle">Elisabeth</forename>
+									<surname>Midgley</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Kimberley</forename>
+									<surname>Benschop</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Robert</forename>
+									<surname>Dyrdak</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Audrey</forename>
+									<surname>Mirand</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jean-Luc</forename>
+									<surname>Bailly</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Sibylle</forename>
+									<surname>Bierbaum</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Stefan</forename>
+									<surname>Buderus</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Sindy</forename>
+									<surname>Böttcher</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Anna-Maria</forename>
+									<surname>Eis-Hübinger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mario</forename>
+									<surname>Hönemann</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Veronika</forename>
+									<forename type="middle">Vorobieva</forename>
+									<surname>Jensen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ulla</forename>
+									<forename type="middle">Birgitte</forename>
+									<surname>Hartling</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Cécile</forename>
+									<surname>Henquell</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marcus</forename>
+									<surname>Panning</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marianne</forename>
+									<forename type="middle">Kragh</forename>
+									<surname>Thomsen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Emma</forename>
+									<forename type="middle">B</forename>
+									<surname>Hodcroft</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Adam</forename>
+									<surname>Meijer</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.2807/1560-7917.es.2020.25.2.1900749</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Eurosurveillance</title>
+							<idno type="ISSN">1560-7917</idno>
+							<imprint>
+								<biblScope unit="volume">25</biblScope>
+								<biblScope unit="issue">2</biblScope>
+								<date type="published" when="2019">2020. 2019/20. 1900749</date>
+								<publisher>European Centre for Disease Control and Prevention (ECDC)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b4">
+						<analytic>
+							<title level="a" type="main">The challenge of emerging and re-emerging infectious diseases</title>
+							<author>
+								<persName>
+									<forename type="first">David</forename>
+									<forename type="middle">M</forename>
+									<surname>Morens</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Gregory</forename>
+									<forename type="middle">K</forename>
+									<surname>Folkers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Anthony</forename>
+									<forename type="middle">S</forename>
+									<surname>Fauci</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1038/nature02759</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Nature</title>
+							<title level="j" type="abbrev">Nature</title>
+							<idno type="ISSN">0028-0836</idno>
+							<idno type="ISSNe">1476-4687</idno>
+							<imprint>
+								<biblScope unit="volume">430</biblScope>
+								<biblScope unit="issue">6996</biblScope>
+								<biblScope unit="page" from="242" to="249" />
+								<date type="published" when="2004-07-08">2004</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b5">
+						<analytic>
+							<title level="a" type="main">Emerging and re-emerging infectious diseases: a continuous challenge for Europe</title>
+							<author>
+								<persName>
+									<forename type="first">Gianluca</forename>
+									<surname>Quaglio</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jacques</forename>
+									<surname>Demotes-Mainard</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Robert</forename>
+									<surname>Loddenkemper</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1183/09031936.00111712</idno>
+						</analytic>
+						<monogr>
+							<title level="j">European Respiratory Journal</title>
+							<title level="j" type="abbrev">Eur Respir J</title>
+							<idno type="ISSN">0903-1936</idno>
+							<idno type="ISSNe">1399-3003</idno>
+							<imprint>
+								<biblScope unit="volume">40</biblScope>
+								<biblScope unit="issue">6</biblScope>
+								<biblScope unit="page" from="1312" to="1314" />
+								<date type="published" when="2012-11-30">2012</date>
+								<publisher>European Respiratory Society (ERS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b6">
+						<analytic>
+							<title level="a" type="main">Infectious disease in an era of global change</title>
+							<author>
+								<persName>
+									<forename type="first">Rachel</forename>
+									<forename type="middle">E</forename>
+									<surname>Baker</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-2661-8103</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ayesha</forename>
+									<forename type="middle">S</forename>
+									<surname>Mahmud</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ian</forename>
+									<forename type="middle">F</forename>
+									<surname>Miller</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-2673-9618</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Malavika</forename>
+									<surname>Rajeev</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Fidisoa</forename>
+									<surname>Rasambainarivo</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Benjamin</forename>
+									<forename type="middle">L</forename>
+									<surname>Rice</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Saki</forename>
+									<surname>Takahashi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Andrew</forename>
+									<forename type="middle">J</forename>
+									<surname>Tatem</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Caroline</forename>
+									<forename type="middle">E</forename>
+									<surname>Wagner</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Lin-Fa</forename>
+									<surname>Wang</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-2752-0535</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Amy</forename>
+									<surname>Wesolowski</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Jessica E</forename>
+									<surname>Metcalf</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1038/s41579-021-00639-z</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Nature Reviews Microbiology</title>
+							<title level="j" type="abbrev">Nat Rev Microbiol</title>
+							<idno type="ISSN">1740-1526</idno>
+							<idno type="ISSNe">1740-1534</idno>
+							<imprint>
+								<biblScope unit="volume">20</biblScope>
+								<biblScope unit="issue">4</biblScope>
+								<biblScope unit="page" from="193" to="205" />
+								<date type="published" when="2022">2022</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b7">
+						<analytic>
+							<title level="a" type="main">Incidence and seasonality of respiratory syncytial virus hospitalisations in young children in Denmark, 2010 to 2015</title>
+							<author>
+								<persName>
+									<forename type="first">Martin</forename>
+									<forename type="middle">T</forename>
+									<surname>Jepsen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ramona</forename>
+									<surname>Trebbien</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Hanne</forename>
+									<forename type="middle">Dorthe</forename>
+									<surname>Emborg</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Tyra</forename>
+									<forename type="middle">G</forename>
+									<surname>Krause</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Kristian</forename>
+									<surname>Schønning</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marianne</forename>
+									<surname>Voldstedlund</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jens</forename>
+									<surname>Nielsen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Thea</forename>
+									<forename type="middle">K</forename>
+									<surname>Fischer</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.2807/1560-7917.es.2018.23.3.17-00163</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Eurosurveillance</title>
+							<idno type="ISSN">1560-7917</idno>
+							<imprint>
+								<biblScope unit="volume">23</biblScope>
+								<biblScope unit="issue">3</biblScope>
+								<biblScope unit="page" from="17" to="00163" />
+								<date type="published" when="2010">2018. 2010 to 2015</date>
+								<publisher>European Centre for Disease Control and Prevention (ECDC)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b8">
+						<analytic>
+							<title level="a" type="main">Clinical and Economic Burden of Community-Acquired Pneumonia among Adults in the Czech Republic, Hungary, Poland and Slovakia</title>
+							<author>
+								<persName>
+									<forename type="first">Ales</forename>
+									<surname>Tichopad</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Craig</forename>
+									<surname>Roberts</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Igor</forename>
+									<surname>Gembula</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Petr</forename>
+									<surname>Hajek</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Anna</forename>
+									<surname>Skoczynska</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Waleria</forename>
+									<surname>Hryniewicz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Karina</forename>
+									<surname>Jahnz-Rozyk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Roman</forename>
+									<surname>Prymula</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ivan</forename>
+									<surname>Solovič</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Vitězslav</forename>
+									<surname>Kolek</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1371/journal.pone.0071375</idno>
+						</analytic>
+						<monogr>
+							<title level="j">PLoS ONE</title>
+							<title level="j" type="abbrev">PLoS ONE</title>
+							<idno type="ISSNe">1932-6203</idno>
+							<imprint>
+								<biblScope unit="volume">8</biblScope>
+								<biblScope unit="issue">8</biblScope>
+								<biblScope unit="page">e71375</biblScope>
+								<date type="published" when="2013-08-06">2013. e71375</date>
+								<publisher>Public Library of Science (PLoS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b9">
+						<analytic>
+							<title level="a" type="main">COVID-19 mortality, excess mortality, deaths per million and infection fatality ratio, Belgium, 9 March 2020 to 28 June 2020</title>
+							<author>
+								<persName>
+									<forename type="first">Geert</forename>
+									<surname>Molenberghs</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-6453-5448</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Christel</forename>
+									<surname>Faes</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-1878-9869</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Johan</forename>
+									<surname>Verbeeck</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-4923-1032</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Patrick</forename>
+									<surname>Deboosere</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-8148-3694</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Steven</forename>
+									<surname>Abrams</surname>
+								</persName>
+								<idno type="ORCID">0000-0001-7353-9304</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Lander</forename>
+									<surname>Willem</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-9210-1196</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jan</forename>
+									<surname>Aerts</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-6416-2717</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Heidi</forename>
+									<surname>Theeten</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-2867-6892</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Natalia</forename>
+									<surname>Bustos Sierra</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Françoise</forename>
+									<surname>Renard</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Sereina</forename>
+									<surname>Herzog</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-5373-5866</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Patrick</forename>
+									<surname>Lusyne</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Johan</forename>
+									<surname>Van Der Heyden</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Herman</forename>
+									<surname>Van Oyen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Pierre</forename>
+									<surname>Van Damme</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niel</forename>
+									<surname>Hens</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-1881-0637</idno>
+							</author>
+							<idno type="DOI">10.2807/1560-7917.es.2022.27.7.2002060</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Eurosurveillance</title>
+							<idno type="ISSN">1560-7917</idno>
+							<imprint>
+								<biblScope unit="volume">27</biblScope>
+								<biblScope unit="issue">7</biblScope>
+								<date type="published" when="2020-06-28">2022. 9 March 2020 to 28 June 2020. 2002060</date>
+								<publisher>European Centre for Disease Control and Prevention (ECDC)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b10">
+						<analytic>
+							<title level="a" type="main">Quantifying the burden of disease: the technical basis for disability-adjusted life years</title>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">J</forename>
+									<surname>Murray</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bulletin of the World Health Organization</title>
+							<imprint>
+								<biblScope unit="volume">72</biblScope>
+								<biblScope unit="page" from="429" to="445" />
+								<date type="published" when="1994">1994</date>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b11">
+						<analytic>
+							<title level="a" type="main">Understanding DALYs</title>
+							<author>
+								<persName>
+									<forename type="first">Christopher</forename>
+									<forename type="middle">J L</forename>
+									<surname>Murray</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arnab</forename>
+									<forename type="middle">K</forename>
+									<surname>Acharya</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/s0167-6296(97)00004-0</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Journal of Health Economics</title>
+							<title level="j" type="abbrev">Journal of Health Economics</title>
+							<idno type="ISSN">0167-6296</idno>
+							<imprint>
+								<biblScope unit="volume">16</biblScope>
+								<biblScope unit="issue">6</biblScope>
+								<biblScope unit="page" from="703" to="730" />
+								<date type="published" when="1997-12">1997</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b12">
+						<analytic>
+							<title level="a" type="main">A critical examination of summary measures of population health</title>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">J</forename>
+									<surname>Murray</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+									<surname>Salomon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<surname>Mathers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bulletin of the World Health Organization</title>
+							<imprint>
+								<biblScope unit="volume">78</biblScope>
+								<biblScope unit="page" from="981" to="994" />
+								<date type="published" when="2000">2000</date>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b13">
+						<analytic>
+							<title level="a" type="main">A Software Tool for Estimation of Burden of Infectious Diseases in Europe Using Incidence-Based Disability Adjusted Life Years</title>
+							<author>
+								<persName>
+									<forename type="first">Edoardo</forename>
+									<surname>Colzani</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Cassini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Daniel</forename>
+									<surname>Lewandowski</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marie-Josee J.</forename>
+									<surname>Mangen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Dietrich</forename>
+									<surname>Plass</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Scott</forename>
+									<forename type="middle">A</forename>
+									<surname>Mcdonald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alies</forename>
+									<surname>Van Lier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Guido</forename>
+									<surname>Maringhini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Pini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Piotr</forename>
+									<surname>Kramarz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mirjam</forename>
+									<forename type="middle">E</forename>
+									<surname>Kretzschmar</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1371/journal.pone.0170662</idno>
+						</analytic>
+						<monogr>
+							<title level="j">PLOS ONE</title>
+							<title level="j" type="abbrev">PLoS ONE</title>
+							<idno type="ISSNe">1932-6203</idno>
+							<imprint>
+								<biblScope unit="volume">12</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">e0170662</biblScope>
+								<date type="published" when="2017-01-20">2017. e0170662</date>
+								<publisher>Public Library of Science (PLoS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b14">
+						<analytic>
+							<title level="a" type="main">Global, regional, and national burden of 12 mental disorders in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019</title>
+							<idno type="DOI">10.1016/s2215-0366(21)00395-3</idno>
+						</analytic>
+						<monogr>
+							<title level="j">The Lancet Psychiatry</title>
+							<title level="j" type="abbrev">The Lancet Psychiatry</title>
+							<idno type="ISSN">2215-0366</idno>
+							<imprint>
+								<biblScope unit="volume">9</biblScope>
+								<biblScope unit="issue">2</biblScope>
+								<biblScope unit="page" from="137" to="150" />
+								<date type="published" when="2019">2020. 2019</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b15">
+						<analytic>
+							<title level="a" type="main">Estimating the Global Burden of Foodborne Diseases - a collaborative effort</title>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<surname>Kuchenmüller</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Hird</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<surname>Stein</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<surname>Kramarz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<surname>Nanda</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.2807/ese.14.18.19195-en</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Eurosurveillance</title>
+							<idno type="ISSN">1560-7917</idno>
+							<imprint>
+								<biblScope unit="volume">14</biblScope>
+								<biblScope unit="issue">18</biblScope>
+								<date type="published" when="2009-05-07">2009. 19195</date>
+								<publisher>European Centre for Disease Control and Prevention (ECDC)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b16">
+						<analytic>
+							<title level="a" type="main">Methodological Framework for World Health Organization Estimates of the Global Burden of Foodborne Disease</title>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Frederick</forename>
+									<forename type="middle">J</forename>
+									<surname>Angulo</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">David</forename>
+									<forename type="middle">C</forename>
+									<surname>Bellinger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Dana</forename>
+									<surname>Cole</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Dörte</forename>
+									<surname>Döpfer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Aamir</forename>
+									<surname>Fazil</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Eric</forename>
+									<forename type="middle">M</forename>
+									<surname>Fèvre</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Herman</forename>
+									<forename type="middle">J</forename>
+									<surname>Gibb</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Tine</forename>
+									<surname>Hald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Martyn</forename>
+									<forename type="middle">D</forename>
+									<surname>Kirk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Robin</forename>
+									<forename type="middle">J</forename>
+									<surname>Lake</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Charline</forename>
+									<surname>Maertens De Noordhout</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Colin</forename>
+									<forename type="middle">D</forename>
+									<surname>Mathers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Scott</forename>
+									<forename type="middle">A</forename>
+									<surname>Mcdonald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Sara</forename>
+									<forename type="middle">M</forename>
+									<surname>Pires</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niko</forename>
+									<surname>Speybroeck</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Kate</forename>
+									<surname>Thomas</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Paul</forename>
+									<forename type="middle">R</forename>
+									<surname>Torgerson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Felicia</forename>
+									<surname>Wu</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Nicolas</forename>
+									<surname>Praet</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1371/journal.pone.0142498</idno>
+						</analytic>
+						<monogr>
+							<title level="j">PLOS ONE</title>
+							<title level="j" type="abbrev">PLoS ONE</title>
+							<idno type="ISSNe">1932-6203</idno>
+							<imprint>
+								<biblScope unit="volume">10</biblScope>
+								<biblScope unit="issue">12</biblScope>
+								<biblScope unit="page">e0142498</biblScope>
+								<date type="published" when="2015-12-03">2015. e0142498</date>
+								<publisher>Public Library of Science (PLoS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b17">
+						<analytic>
+							<title level="a" type="main">DALY Estimation Approaches: Understanding and Using the Incidence-based Approach and the Prevalence-based Approach</title>
+							<author>
+								<persName>
+									<forename type="first">Young-Eun</forename>
+									<surname>Kim</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-0694-6844</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Yoon-Sun</forename>
+									<surname>Jung</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-9379-4908</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Minsu</forename>
+									<surname>Ock</surname>
+								</persName>
+								<idno type="ORCID">0000-0001-9949-9224</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Seok-Jun</forename>
+									<surname>Yoon</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-3297-0071</idno>
+							</author>
+							<idno type="DOI">10.3961/jpmph.21.597</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Journal of Preventive Medicine and Public Health</title>
+							<title level="j" type="abbrev">J Prev Med Public Health</title>
+							<idno type="ISSN">1975-8375</idno>
+							<idno type="ISSNe">2233-4521</idno>
+							<imprint>
+								<biblScope unit="volume">55</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page" from="10" to="18" />
+								<date type="published" when="2022-01-31">2022</date>
+								<publisher>Korean Society for Preventive Medicine</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b18">
+						<analytic>
+							<title level="a" type="main">Reflections on key methodological decisions in national burden of disease assessments</title>
+							<author>
+								<persName>
+									<forename type="first">Elena</forename>
+									<surname>Von Der Lippe</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-3757-1264</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Michelle</forename>
+									<surname>Gourley</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Henk</forename>
+									<surname>Hilderink</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Michael</forename>
+									<surname>Porst</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Annelene</forename>
+									<surname>Wengler</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Grant</forename>
+									<surname>Wyper</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ian</forename>
+									<surname>Grant</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1186/s13690-020-00519-7</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Archives of Public Health</title>
+							<title level="j" type="abbrev">Arch Public Health</title>
+							<idno type="ISSNe">2049-3258</idno>
+							<imprint>
+								<biblScope unit="volume">78</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">137</biblScope>
+								<date type="published" when="2020-12">2020</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b19">
+						<analytic>
+							<title level="a" type="main">World Health Organization Global Estimates and Regional Comparisons of the Burden of Foodborne Disease in 2010</title>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Martyn</forename>
+									<forename type="middle">D</forename>
+									<surname>Kirk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Paul</forename>
+									<forename type="middle">R</forename>
+									<surname>Torgerson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Herman</forename>
+									<forename type="middle">J</forename>
+									<surname>Gibb</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Tine</forename>
+									<surname>Hald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Robin</forename>
+									<forename type="middle">J</forename>
+									<surname>Lake</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Nicolas</forename>
+									<surname>Praet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">David</forename>
+									<forename type="middle">C</forename>
+									<surname>Bellinger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Nilanthi</forename>
+									<forename type="middle">R</forename>
+									<surname>De Silva</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Neyla</forename>
+									<surname>Gargouri</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niko</forename>
+									<surname>Speybroeck</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Amy</forename>
+									<surname>Cawthorne</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Colin</forename>
+									<surname>Mathers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Claudia</forename>
+									<surname>Stein</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Frederick</forename>
+									<forename type="middle">J</forename>
+									<surname>Angulo</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1371/journal.pmed.1001923</idno>
+						</analytic>
+						<monogr>
+							<title level="j">PLOS Medicine</title>
+							<title level="j" type="abbrev">PLoS Med</title>
+							<idno type="ISSNe">1549-1676</idno>
+							<imprint>
+								<biblScope unit="volume">12</biblScope>
+								<biblScope unit="issue">12</biblScope>
+								<biblScope unit="page">e1001923</biblScope>
+								<date type="published" when="2015-12-03">2015. e1001923</date>
+								<publisher>Public Library of Science (PLoS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b20">
+						<analytic>
+							<title level="a" type="main">The Pathogen- and Incidence-Based DALY Approach: An Appropriated Methodology for Estimating the Burden of Infectious Diseases</title>
+							<author>
+								<persName>
+									<forename type="first">Marie-Josée J.</forename>
+									<surname>Mangen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Dietrich</forename>
+									<surname>Plass</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Cheryl</forename>
+									<forename type="middle">L</forename>
+									<surname>Gibbons</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Cassini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Nikolai</forename>
+									<surname>Mühlberger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alies</forename>
+									<surname>Van Lier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">John</forename>
+									<surname>Brooke</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Taavi</forename>
+									<surname>Lai</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Chiara</forename>
+									<surname>De Waure</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Piotr</forename>
+									<surname>Kramarz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mirjam</forename>
+									<forename type="middle">E E</forename>
+									<surname>Kretzschmar</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1371/journal.pone.0079740</idno>
+						</analytic>
+						<monogr>
+							<title level="j">PLoS ONE</title>
+							<title level="j" type="abbrev">PLoS ONE</title>
+							<idno type="ISSNe">1932-6203</idno>
+							<imprint>
+								<biblScope unit="volume">8</biblScope>
+								<biblScope unit="issue">11</biblScope>
+								<biblScope unit="page">e79740</biblScope>
+								<date type="published" when="2013-11-20">2013</date>
+								<publisher>Public Library of Science (PLoS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b21">
+						<analytic>
+							<title level="a" type="main">New Methodology for Estimating the Burden of Infectious Diseases in Europe</title>
+							<author>
+								<persName>
+									<forename type="first">Mirjam</forename>
+									<surname>Kretzschmar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marie-Josée J.</forename>
+									<surname>Mangen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Paulo</forename>
+									<surname>Pinheiro</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Beate</forename>
+									<surname>Jahn</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Eric</forename>
+									<forename type="middle">M</forename>
+									<surname>Fèvre</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Silvia</forename>
+									<surname>Longhi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Taavi</forename>
+									<surname>Lai</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Claudia</forename>
+									<surname>Stein</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Cassini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Piotr</forename>
+									<surname>Kramarz</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1371/journal.pmed.1001205</idno>
+						</analytic>
+						<monogr>
+							<title level="j">PLoS Medicine</title>
+							<title level="j" type="abbrev">PLoS Med</title>
+							<idno type="ISSNe">1549-1676</idno>
+							<imprint>
+								<biblScope unit="volume">9</biblScope>
+								<biblScope unit="issue">4</biblScope>
+								<biblScope unit="page">e1001205</biblScope>
+								<date type="published" when="2012-04-17">2012</date>
+								<publisher>Public Library of Science (PLoS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b22">
+						<analytic>
+							<title level="a" type="main">Impact of infectious diseases on population health using incidence-based disability-adjusted life years (DALYs): results from the Burden of Communicable Diseases in Europe study, European Union and European Economic Area countries, 2009 to 2013</title>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Cassini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Edoardo</forename>
+									<surname>Colzani</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Pini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marie-Josee </forename>
+									<forename type="middle">J</forename>
+									<surname>Mangen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Dietrich</forename>
+									<surname>Plass</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Scott</forename>
+									<forename type="middle">A</forename>
+									<surname>Mcdonald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Guido</forename>
+									<surname>Maringhini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alies</forename>
+									<surname>Van Lier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Piotr</forename>
+									<surname>Kramarz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mirjam</forename>
+									<forename type="middle">E</forename>
+									<surname>Kretzschmar</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.2807/1560-7917.es.2018.23.16.17-00454</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Eurosurveillance</title>
+							<idno type="ISSN">1560-7917</idno>
+							<imprint>
+								<biblScope unit="volume">23</biblScope>
+								<biblScope unit="issue">16</biblScope>
+								<biblScope unit="page" from="17" to="00454" />
+								<date type="published" when="2009">2018. 2009 to 2013</date>
+								<publisher>European Centre for Disease Control and Prevention (ECDC)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b23">
+						<analytic>
+							<title level="a" type="main">A systematic literature review of disability weights measurement studies: evolution of methodological choices</title>
+							<author>
+								<persName>
+									<forename type="first">Periklis</forename>
+									<surname>Charalampous</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-3460-4828</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Suzanne</forename>
+									<surname>Polinder</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jördis</forename>
+									<surname>Wothge</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Elena</forename>
+									<surname>Von Der Lippe</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1186/s13690-022-00860-z</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Archives of Public Health</title>
+							<title level="j" type="abbrev">Arch Public Health</title>
+							<idno type="ISSNe">2049-3258</idno>
+							<imprint>
+								<biblScope unit="volume">80</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">91</biblScope>
+								<date type="published" when="2022-03-24">2022</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b24">
+						<analytic>
+							<title level="a" type="main">Review of disability weight studies: comparison of methodological choices and values</title>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Suzanne</forename>
+									<surname>Polinder</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Cassini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Edoardo</forename>
+									<surname>Colzani</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1186/s12963-014-0020-2</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Population Health Metrics</title>
+							<title level="j" type="abbrev">Popul Health Metrics</title>
+							<idno type="ISSNe">1478-7954</idno>
+							<imprint>
+								<biblScope unit="volume">12</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">20</biblScope>
+								<date type="published" when="2014-08-23">2014</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b25">
+						<analytic>
+							<title level="a" type="main">Disability weights for the Global Burden of Disease 2013 study</title>
+							<author>
+								<persName>
+									<forename type="first">Joshua</forename>
+									<forename type="middle">A</forename>
+									<surname>Salomon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Adrian</forename>
+									<surname>Davis</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Charline</forename>
+									<forename type="middle">Maertens</forename>
+									<surname>De Noordhout</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Suzanne</forename>
+									<surname>Polinder</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Cassini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mirjam</forename>
+									<surname>Kretzschmar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niko</forename>
+									<surname>Speybroeck</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Christopher</forename>
+									<forename type="middle">J L</forename>
+									<surname>Murray</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Theo</forename>
+									<surname>Vos</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/s2214-109x(15)00069-8</idno>
+						</analytic>
+						<monogr>
+							<title level="j">The Lancet Global Health</title>
+							<title level="j" type="abbrev">The Lancet Global Health</title>
+							<idno type="ISSN">2214-109X</idno>
+							<imprint>
+								<biblScope unit="volume">3</biblScope>
+								<biblScope unit="issue">11</biblScope>
+								<biblScope unit="page" from="e712" to="e723" />
+								<date type="published" when="2015-11">2015</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b26">
+						<analytic>
+							<title level="a" type="main">Assessing disability weights based on the responses of 30,660 people from four European countries</title>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Charline</forename>
+									<surname>Maertens De Noordhout</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Suzanne</forename>
+									<surname>Polinder</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Theo</forename>
+									<surname>Vos</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Alessandro</forename>
+									<surname>Cassini</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mirjam</forename>
+									<forename type="middle">E</forename>
+									<surname>Kretzschmar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niko</forename>
+									<surname>Speybroeck</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Joshua</forename>
+									<forename type="middle">A</forename>
+									<surname>Salomon</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1186/s12963-015-0042-4</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Population Health Metrics</title>
+							<title level="j" type="abbrev">Popul Health Metrics</title>
+							<idno type="ISSNe">1478-7954</idno>
+							<imprint>
+								<biblScope unit="volume">13</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">10</biblScope>
+								<date type="published" when="2015-04-03">2015</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b27">
+						<analytic>
+							<title level="a" type="main">Calculating disability-adjusted life years to quantify burden of disease</title>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Charline</forename>
+									<surname>Maertens De Noordhout</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Nicolas</forename>
+									<surname>Praet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Pierre</forename>
+									<surname>Dorny</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Luc</forename>
+									<surname>Duchateau</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Paul</forename>
+									<forename type="middle">R</forename>
+									<surname>Torgerson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Herman</forename>
+									<surname>Van Oyen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niko</forename>
+									<surname>Speybroeck</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1007/s00038-014-0552-z</idno>
+						</analytic>
+						<monogr>
+							<title level="j">International Journal of Public Health</title>
+							<title level="j" type="abbrev">Int J Public Health</title>
+							<idno type="ISSN">1661-8556</idno>
+							<idno type="ISSNe">1661-8564</idno>
+							<imprint>
+								<biblScope unit="volume">59</biblScope>
+								<biblScope unit="issue">3</biblScope>
+								<biblScope unit="page" from="565" to="569" />
+								<date type="published" when="2014-04-22">2014</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b28">
+						<analytic>
+							<title level="a" type="main">Systematic review of general burden of disease studies using disability-adjusted life years</title>
+							<author>
+								<persName>
+									<forename type="first">Suzanne</forename>
+									<surname>Polinder</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Claudia</forename>
+									<surname>Stein</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1186/1478-7954-10-21</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Population Health Metrics</title>
+							<title level="j" type="abbrev">Popul Health Metrics</title>
+							<idno type="ISSNe">1478-7954</idno>
+							<imprint>
+								<biblScope unit="volume">10</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">21</biblScope>
+								<date type="published" when="2012-11-01">2012</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b29">
+						<analytic>
+							<title level="a" type="main">Burden of disease studies in the WHO European Region—a mapping exercise</title>
+							<author>
+								<persName>
+									<forename type="first">Mark</forename>
+									<forename type="middle">R</forename>
+									<surname>O’donovan</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Christian</forename>
+									<surname>Gapp</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Claudia</forename>
+									<surname>Stein</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1093/eurpub/cky060</idno>
+						</analytic>
+						<monogr>
+							<title level="j">European Journal of Public Health</title>
+							<idno type="ISSN">1101-1262</idno>
+							<idno type="ISSNe">1464-360X</idno>
+							<imprint>
+								<biblScope unit="volume">28</biblScope>
+								<biblScope unit="issue">4</biblScope>
+								<biblScope unit="page" from="773" to="778" />
+								<date type="published" when="2018-04-25">2018</date>
+								<publisher>Oxford University Press (OUP)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b30">
+						<analytic>
+							<title level="a" type="main">Burden of non-communicable disease studies in Europe: a systematic review of data sources and methodological choices</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<surname>Charalampous</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">European Journal of Public Health</title>
+							<imprint>
+								<biblScope unit="volume">32</biblScope>
+								<biblScope unit="page" from="289" to="296" />
+								<date type="published" when="2022">2022</date>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b31">
+						<analytic>
+							<title level="a" type="main">A systematic literature review of disability weights measurement studies: evolution of methodological choices</title>
+							<author>
+								<persName>
+									<forename type="first">Periklis</forename>
+									<surname>Charalampous</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-3460-4828</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Suzanne</forename>
+									<surname>Polinder</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jördis</forename>
+									<surname>Wothge</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Elena</forename>
+									<surname>Von Der Lippe</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1186/s13690-022-00860-z</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Archives of Public Health</title>
+							<title level="j" type="abbrev">Arch Public Health</title>
+							<idno type="ISSNe">2049-3258</idno>
+							<imprint>
+								<biblScope unit="volume">80</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">1564</biblScope>
+								<date type="published" when="2022-03-24">2022</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b32">
+						<analytic>
+							<title level="a" type="main">Systematic review of foodborne burden of disease studies: Quality assessment of data and methodology</title>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Suzanne</forename>
+									<surname>Polinder</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Claudia</forename>
+									<forename type="middle">E</forename>
+									<surname>Stein</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/j.ijfoodmicro.2013.05.029</idno>
+						</analytic>
+						<monogr>
+							<title level="j">International Journal of Food Microbiology</title>
+							<title level="j" type="abbrev">International Journal of Food Microbiology</title>
+							<idno type="ISSN">0168-1605</idno>
+							<imprint>
+								<biblScope unit="volume">166</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page" from="34" to="47" />
+								<date type="published" when="2013-08">2013</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b33">
+						<analytic>
+							<title level="a" type="main">European burden of disease network: strengthening the collaboration</title>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-2867-6892</idno>
+							</author>
+							<idno type="DOI">10.1093/eurpub/ckz225</idno>
+						</analytic>
+						<monogr>
+							<title level="j">European Journal of Public Health</title>
+							<idno type="ISSN">1101-1262</idno>
+							<idno type="ISSNe">1464-360X</idno>
+							<imprint>
+								<biblScope unit="volume">30</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page" from="2" to="3" />
+								<date type="published" when="2020-01-24">2020</date>
+								<publisher>Oxford University Press (OUP)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b34">
+						<analytic>
+							<title level="a" type="main">The PRISMA 2020 statement: an updated guideline for reporting systematic reviews</title>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Page</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">BMJ</title>
+							<imprint>
+								<biblScope unit="volume">372</biblScope>
+								<biblScope unit="page">71</biblScope>
+								<date type="published" when="2021">2021</date>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b35">
+						<monogr>
+							<title level="m" type="main">World Development Report 1993</title>
+							<author>
+								<persName>
+									<forename type="first">World</forename>
+									<surname>Bank</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1596/0-1952-0890-0</idno>
+							<imprint>
+								<date type="published" when="1993-06">1993</date>
+								<publisher>The World Bank</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b36">
+						<analytic>
+							<title level="a" type="main">Burden of foodborne diseases: think global, act local</title>
+							<author>
+								<persName>
+									<forename type="first">Sara</forename>
+									<forename type="middle">M</forename>
+									<surname>Pires</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Binyam</forename>
+									<forename type="middle">N</forename>
+									<surname>Desta</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-1814-7487</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Lapo</forename>
+									<surname>Mughini-Gras</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Blandina</forename>
+									<forename type="middle">T</forename>
+									<surname>Mmbaga</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Olanrewaju</forename>
+									<forename type="middle">E</forename>
+									<surname>Fayemi</surname>
+								</persName>
+								<idno type="ORCID">0000-0001-5227-8301</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Elsa</forename>
+									<forename type="middle">M</forename>
+									<surname>Salvador</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Tesfaye</forename>
+									<surname>Gobena</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Shannon</forename>
+									<forename type="middle">E</forename>
+									<surname>Majowicz</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-0006-8369</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Tine</forename>
+									<surname>Hald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Peter</forename>
+									<forename type="middle">S</forename>
+									<surname>Hoejskov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Yuki</forename>
+									<surname>Minato</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/j.cofs.2021.01.006</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Current Opinion in Food Science</title>
+							<title level="j" type="abbrev">Current Opinion in Food Science</title>
+							<idno type="ISSN">2214-7993</idno>
+							<imprint>
+								<biblScope unit="volume">39</biblScope>
+								<biblScope unit="page" from="152" to="159" />
+								<date type="published" when="2021-06">2021</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b37">
+						<analytic>
+							<title level="a" type="main">Dutch DALYs, current and future burden of disease in the Netherlands</title>
+							<author>
+								<persName>
+									<forename type="first">Henk</forename>
+									<forename type="middle">B M</forename>
+									<surname>Hilderink</surname>
+								</persName>
+								<idno type="ORCID">0000-0001-7181-8553</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marjanne</forename>
+									<forename type="middle">H D</forename>
+									<surname>Plasmans</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J J C</forename>
+									<surname>Poos</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Petra</forename>
+									<forename type="middle">E D</forename>
+									<surname>Eysink</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ronald</forename>
+									<surname>Gijsen</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1186/s13690-020-00461-8</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Archives of Public Health</title>
+							<title level="j" type="abbrev">Arch Public Health</title>
+							<idno type="ISSNe">2049-3258</idno>
+							<imprint>
+								<biblScope unit="volume">78</biblScope>
+								<biblScope unit="issue">1</biblScope>
+								<biblScope unit="page">85</biblScope>
+								<date type="published" when="2020-09-22">2020</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b38">
+						<analytic>
+							<title level="a" type="main">Disease Burden of 32 Infectious Diseases in the Netherlands, 2007-2011</title>
+							<author>
+								<persName>
+									<forename type="first">Alies</forename>
+									<surname>Van Lier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Scott</forename>
+									<forename type="middle">A</forename>
+									<surname>Mcdonald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Martijn</forename>
+									<surname>Bouwknegt</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Mirjam</forename>
+									<forename type="middle">E</forename>
+									<surname>Kretzschmar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Arie</forename>
+									<forename type="middle">H</forename>
+									<surname>Havelaar</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-6456-5460</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Marie-Josée J.</forename>
+									<surname>Mangen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jacco</forename>
+									<surname>Wallinga</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Hester</forename>
+									<forename type="middle">E</forename>
+									<surname>De Melker</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1371/journal.pone.0153106</idno>
+						</analytic>
+						<monogr>
+							<title level="j">PLOS ONE</title>
+							<title level="j" type="abbrev">PLoS ONE</title>
+							<idno type="ISSNe">1932-6203</idno>
+							<imprint>
+								<biblScope unit="volume">11</biblScope>
+								<biblScope unit="issue">4</biblScope>
+								<biblScope unit="page">e0153106</biblScope>
+								<date type="published" when="2007">2016. 2007-2011. e0153106</date>
+								<publisher>Public Library of Science (PLoS)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b39">
+						<analytic>
+							<title level="a" type="main">Variations in national infectious diseases surveillance in Europe</title>
+							<author>
+								<persName>
+									<forename type="first">J-C</forename>
+									<surname>Desenclos</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<surname>Bijkerk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Huisman</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/0140-6736(93)91084-y</idno>
+						</analytic>
+						<monogr>
+							<title level="j">The Lancet</title>
+							<title level="j" type="abbrev">The Lancet</title>
+							<idno type="ISSN">0140-6736</idno>
+							<imprint>
+								<biblScope unit="volume">341</biblScope>
+								<biblScope unit="issue">8851</biblScope>
+								<biblScope unit="page" from="1003" to="1006" />
+								<date type="published" when="1993-04">1993</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b40">
+						<analytic>
+							<title level="a" type="main">Benchmarking national surveillance systems: a new tool for the comparison of communicable disease surveillance and control in Europe</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<surname>Reintjes</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Thelen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<surname>Reiche</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<surname>Csohan</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1093/eurpub/ckl256</idno>
+						</analytic>
+						<monogr>
+							<title level="j">The European Journal of Public Health</title>
+							<title level="j" type="abbrev">The European Journal of Public Health</title>
+							<idno type="ISSN">1101-1262</idno>
+							<idno type="ISSNe">1464-360X</idno>
+							<imprint>
+								<biblScope unit="volume">17</biblScope>
+								<biblScope unit="issue">4</biblScope>
+								<biblScope unit="page" from="375" to="380" />
+								<date type="published" when="2007-03-28">2007</date>
+								<publisher>Oxford University Press (OUP)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b41">
+						<analytic>
+							<title level="a" type="main">Sexually transmitted disease in Britain: 1985-6. Public Health Laboratory Service Communicable Disease Surveillance Centre.</title>
+							<idno type="DOI">10.1136/sti.65.2.117</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Sexually Transmitted Infections</title>
+							<title level="j" type="abbrev">Sexually Transmitted Infections</title>
+							<idno type="ISSN">1368-4973</idno>
+							<imprint>
+								<biblScope unit="volume">65</biblScope>
+								<biblScope unit="issue">2</biblScope>
+								<biblScope unit="page" from="117" to="121" />
+								<date type="published" when="1990">2012. 1990-2010</date>
+								<publisher>BMJ</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b42">
+						<analytic>
+							<title level="a" type="main">Sexual transmission of infections across Europe: appraising the present, scoping the future</title>
+							<author>
+								<persName>
+									<forename type="first">Anna</forename>
+									<forename type="middle">Maria</forename>
+									<surname>Geretti</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-3670-6588</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Otilia</forename>
+									<surname>Mardh</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Henry</forename>
+									<forename type="middle">J C</forename>
+									<surname>De Vries</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Andrew</forename>
+									<surname>Winter</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-8293-9462</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">John</forename>
+									<surname>Mcsorley</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Nicole</forename>
+									<surname>Seguy</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Bea</forename>
+									<surname>Vuylsteke</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-0514-4372</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Deniz</forename>
+									<surname>Gokengin</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1136/sextrans-2022-055455</idno>
+							<idno>sextrans-2022-055455</idno>
+						</analytic>
+						<monogr>
+							<title level="j">Sexually Transmitted Infections</title>
+							<title level="j" type="abbrev">Sex Transm Infect</title>
+							<idno type="ISSN">1368-4973</idno>
+							<idno type="ISSNe">1472-3263</idno>
+							<imprint>
+								<biblScope unit="volume">98</biblScope>
+								<biblScope unit="issue">6</biblScope>
+								<biblScope unit="page" from="451" to="457" />
+								<date type="published" when="2022-05-10">2022</date>
+								<publisher>BMJ</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b43">
+						<analytic>
+							<title level="a" type="main">9.B. Workshop: Burden of disease of COVID-19: strengthening the collaboration for national studies</title>
+							<idno type="DOI">10.1093/eurpub/ckab164.620</idno>
+						</analytic>
+						<monogr>
+							<title level="j">European Journal of Public Health</title>
+							<idno type="ISSN">1101-1262</idno>
+							<idno type="ISSNe">1464-360X</idno>
+							<imprint>
+								<biblScope unit="volume">31</biblScope>
+								<biblScope unit="issue">Supplement_3</biblScope>
+								<biblScope unit="page">907012</biblScope>
+								<date type="published" when="2022">2022</date>
+								<publisher>Oxford University Press (OUP)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b44">
+						<analytic>
+							<title level="a" type="main">9.B. Workshop: Burden of disease of COVID-19: strengthening the collaboration for national studies</title>
+							<idno type="DOI">10.1093/eurpub/ckab164.620</idno>
+							<ptr target="https://www.bur-den-eu.net/0" />
+						</analytic>
+						<monogr>
+							<title level="j">European Journal of Public Health</title>
+							<idno type="ISSN">1101-1262</idno>
+							<idno type="ISSNe">1464-360X</idno>
+							<imprint>
+								<biblScope unit="volume">31</biblScope>
+								<biblScope unit="issue">Supplement_3</biblScope>
+								<date type="published" when="2021-10-01">2021</date>
+								<publisher>Oxford University Press (OUP)</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b45">
+						<analytic>
+							<title level="a" type="main">Burden of Disease Methods: A Guide to Calculate COVID-19 Disability-Adjusted Life Years</title>
+							<author>
+								<persName>
+									<forename type="first">Grant</forename>
+									<forename type="middle">M A</forename>
+									<surname>Wyper</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ricardo</forename>
+									<forename type="middle">M A</forename>
+									<surname>Assunção</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Edoardo</forename>
+									<surname>Colzani</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ian</forename>
+									<surname>Grant</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Juanita</forename>
+									<forename type="middle">A</forename>
+									<surname>Haagsma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Giske</forename>
+									<surname>Lagerweij</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Elena</forename>
+									<surname>Von Der Lippe</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Scott</forename>
+									<forename type="middle">A</forename>
+									<surname>Mcdonald</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Sara</forename>
+									<forename type="middle">M</forename>
+									<surname>Pires</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Michael</forename>
+									<surname>Porst</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niko</forename>
+									<surname>Speybroeck</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.3389/ijph.2021.619011</idno>
+						</analytic>
+						<monogr>
+							<title level="j">International Journal of Public Health</title>
+							<title level="j" type="abbrev">Int J Public Health</title>
+							<idno type="ISSNe">1661-8564</idno>
+							<imprint>
+								<biblScope unit="volume">66</biblScope>
+								<biblScope unit="page">619011</biblScope>
+								<date type="published" when="2021-03-05">2021</date>
+								<publisher>Frontiers Media SA</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b46">
+						<analytic>
+							<title level="a" type="main">The end of AIDS: HIV infection as a chronic disease</title>
+							<author>
+								<persName>
+									<forename type="first">Steven</forename>
+									<forename type="middle">G</forename>
+									<surname>Deeks</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Sharon</forename>
+									<forename type="middle">R</forename>
+									<surname>Lewin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Diane</forename>
+									<forename type="middle">V</forename>
+									<surname>Havlir</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/s0140-6736(13)61809-7</idno>
+						</analytic>
+						<monogr>
+							<title level="j">The Lancet</title>
+							<title level="j" type="abbrev">The Lancet</title>
+							<idno type="ISSN">0140-6736</idno>
+							<imprint>
+								<biblScope unit="volume">382</biblScope>
+								<biblScope unit="issue">9903</biblScope>
+								<biblScope unit="page" from="1525" to="1533" />
+								<date type="published" when="2013-11">2013</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b47">
+						<analytic>
+							<title level="a" type="main">Estimations of worldwide prevalence of chronic hepatitis B virus infection: a systematic review of data published between 1965 and 2013</title>
+							<author>
+								<persName>
+									<forename type="first">Aparna</forename>
+									<surname>Schweitzer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Johannes</forename>
+									<surname>Horn</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Rafael</forename>
+									<forename type="middle">T</forename>
+									<surname>Mikolajczyk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Gérard</forename>
+									<surname>Krause</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jördis</forename>
+									<forename type="middle">J</forename>
+									<surname>Ott</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1016/s0140-6736(15)61412-x</idno>
+						</analytic>
+						<monogr>
+							<title level="j">The Lancet</title>
+							<title level="j" type="abbrev">The Lancet</title>
+							<idno type="ISSN">0140-6736</idno>
+							<imprint>
+								<biblScope unit="volume">386</biblScope>
+								<biblScope unit="issue">10003</biblScope>
+								<biblScope unit="page" from="1546" to="1555" />
+								<date type="published" when="1965">2015. 1965. 2013</date>
+								<publisher>Elsevier BV</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b48">
+						<analytic>
+							<title level="a" type="main">Valuing the years of life lost due to COVID-19: the differences and pitfalls</title>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">International Journal of Public Health</title>
+							<imprint>
+								<biblScope unit="volume">65</biblScope>
+								<biblScope unit="page" from="719" to="720" />
+								<date type="published" when="2020">2020</date>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b49">
+						<analytic>
+							<title level="a" type="main">Years of life lost methods must remain fully equitable and accountable</title>
+							<author>
+								<persName>
+									<forename type="first">Grant</forename>
+									<forename type="middle">M A</forename>
+									<surname>Wyper</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-2854-5822</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Brecht</forename>
+									<surname>Devleesschauwer</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-2867-6892</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Colin</forename>
+									<forename type="middle">D</forename>
+									<surname>Mathers</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-0617-6731</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Scott</forename>
+									<forename type="middle">A</forename>
+									<surname>Mcdonald</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-0788-6011</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Niko</forename>
+									<surname>Speybroeck</surname>
+								</persName>
+								<idno type="ORCID">0000-0003-3322-3502</idno>
+							</author>
+							<idno type="DOI">10.1007/s10654-022-00846-9</idno>
+						</analytic>
+						<monogr>
+							<title level="j">European Journal of Epidemiology</title>
+							<title level="j" type="abbrev">Eur J Epidemiol</title>
+							<idno type="ISSN">0393-2990</idno>
+							<idno type="ISSNe">1573-7284</idno>
+							<imprint>
+								<biblScope unit="volume">37</biblScope>
+								<biblScope unit="issue">2</biblScope>
+								<biblScope unit="page" from="215" to="216" />
+								<date type="published" when="2022-02">2022</date>
+								<publisher>Springer Science and Business Media LLC</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b50">
+						<analytic>
+							<title level="a" type="main">Variability in the burden of disease estimates with or without age weighting and discounting: a methodological study</title>
+							<author>
+								<persName>
+									<forename type="first">Oluwaseun</forename>
+									<surname>Egunsola</surname>
+								</persName>
+								<idno type="ORCID">0000-0002-0500-9501</idno>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jacques</forename>
+									<surname>Raubenheimer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Nicholas</forename>
+									<surname>Buckley</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1136/bmjopen-2018-027825</idno>
+						</analytic>
+						<monogr>
+							<title level="j">BMJ Open</title>
+							<title level="j" type="abbrev">BMJ Open</title>
+							<idno type="ISSN">2044-6055</idno>
+							<imprint>
+								<biblScope unit="volume">9</biblScope>
+								<biblScope unit="issue">8</biblScope>
+								<biblScope unit="page">e027825</biblScope>
+								<date type="published" when="2019-08">2019. e027825</date>
+								<publisher>BMJ</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b51">
+						<monogr>
+							<title level="m" type="main">Disability Weights for Diseases in the Netherlands</title>
+							<author>
+								<persName>
+									<forename type="first">Mea</forename>
+									<surname>Stouthard</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1997">1997</date>
+								<publisher>Inst. Sociale Geneeskunde</publisher>
+								<pubPlace>Amsterdam, The Netherlands</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b52">
+						<analytic>
+							<title level="a" type="main">Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics</title>
+							<author>
+								<persName>
+									<forename type="first">Maertens</forename>
+									<surname>De Noordhout</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">European Journal of Public Health</title>
+							<imprint>
+								<biblScope unit="volume">28</biblScope>
+								<biblScope unit="page" from="124" to="133" />
+								<date type="published" when="2018">2018</date>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+					<biblStruct xml:id="b53">
+						<monogr>
+							<title level="m" type="main">Xidias, Periklis Spiridonovich</title>
+							<author>
+								<persName>
+									<forename type="first">Periklis</forename>
+									<surname>Charalampous</surname>
+								</persName>
+							</author>
+							<idno type="DOI">10.1093/benz/9780199773787.article.b00199850</idno>
+							<imprint>
+								<date type="published" when="2011-10-31" />
+								<publisher>Oxford University Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
