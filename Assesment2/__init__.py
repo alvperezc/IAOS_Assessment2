@@ -3,6 +3,8 @@ import os
 import nltk
 import xml.etree.ElementTree as ET
 import json
+from bs4 import BeautifulSoup
+import re
 nltk.download('brown')
 nltk.download('punkt')
 
@@ -13,15 +15,21 @@ nltk.download('punkt')
 grobid_url = "http://localhost:8070/api/processFulltextDocument"
 
 params = {
-    'input': 'processFulltextDocument',
+    #'input': 'processFulltextDocument',
     'consolidateHeader': '1',
-    'consolidateCitations': '1',
-    'includeRawCitations': '0',
-    'teiCoordinates': '0'
+    'output':'/home/alvaro/Documentos/IA/IAOS_Assessment2/Assesment2/resources'
+    #'consolidatecitations': '1',
+    #'includeRawcitations': '0',
+    #'teiCoordinates': '0'
 }
 
+data={}
+data["consolidateHeader"] = "1"
+
 # Definir la carpeta que contiene los archivos PDF
-folder_path = "./Assesment2/resources"
+#folder_path = "./Assesment2/resources"
+#folder_path ="/home/alvaro/Documentos/PruebaCluster/"
+folder_path ="/home/alvaro/Documentos/res/"
 
 # Obtener la lista de archivos en la carpeta
 file_list = os.listdir(folder_path)
@@ -42,12 +50,13 @@ for filename in file_list:
             file_content = pdf_file.read()
 
         # Enviar la solicitud a Grobid
-        response = requests.post(grobid_url, files={'input': file_content}, params=params)
+        response = requests.post(grobid_url, files={'input': file_content})#params=params
         # Procesar la respuesta
         if response.status_code == 200:
             # La respuesta es un documento TEI en XML
             texto = response.content
             root = ET.fromstring(texto)
+            soup = BeautifulSoup(texto, 'lxml')
             pdf_data = {}
             
             #--------------Titulo-------------
@@ -56,8 +65,6 @@ for filename in file_list:
             title = root.find('.//{http://www.tei-c.org/ns/1.0}title[@type="main"]')
             if title is not None: title_txt=title.text
             pdf_data["Title"] = title_txt
-            #all_data.append(pdf_data)
-            #print("\t",title_txt)
 
             #--------------Abstract-------------
             #print("\nAbstract:")
@@ -66,8 +73,6 @@ for filename in file_list:
             if abstract is not None: abstract_txt=abstract.text
             data={"Abstract":abstract_txt}
             pdf_data["Abstract"] = abstract_txt
-            #all_data.append(pdf_data)
-            #print(abstract_txt)
 
             #--------------Author-------------
             #print("\nAutores:")
@@ -83,8 +88,7 @@ for filename in file_list:
                 author_data = {"Forename": forename_text, "Surname": surname_text}
                 authors_data.append(author_data)
             pdf_data["Author"] = authors_data
-            #all_data.append(pdf_data)
-                #print("\t",forename_text,surname_text)
+
             #--------------KeyWords-------------
             #print("\nKeywords:")
             keywords = root.findall('.//{http://www.tei-c.org/ns/1.0}keywords/{http://www.tei-c.org/ns/1.0}term')
@@ -95,37 +99,41 @@ for filename in file_list:
                 keyword_data = {"KeyWords":keyword_txt}
                 keywords_data.append(keyword_data)
             pdf_data["KeyWords"] = keywords_data
-            #all_data.append(pdf_data)
-                #print("\t",keyword_txt)
+
 
             #--------------Published Date-------------
             #print("\nPublisher:") 
-            publisherStmt = root.find('.//{http://www.tei-c.org/ns/1.0}publicationStmt')
-            publishers_data = []
-            if publisherStmt is not None:
-                date_txt="None"
-                publisher_txt="None"
-                date=publisherStmt.find('.//{http://www.tei-c.org/ns/1.0}date[@type="published"]')
-                if date is not None: date_txt=date.text
-                publisher=publisherStmt.find('.//{http://www.tei-c.org/ns/1.0}publisher')
-                if publisher is not None: publisher_txt=publisher.text
-                publisher_data = {"Publisher": publisher_txt, "Date": date_txt}
-                publishers_data.append(publisher_data)
+            #publisherStmt = root.find('.//{http://www.tei-c.org/ns/1.0}publicationStmt')
+            #publishers_data = []
+            #if publisherStmt is not None:
+                #date_txt="None"
+                #publisher_txt="None"
+                #date=publisherStmt.find('.//{http://www.tei-c.org/ns/1.0}date[@type="published"]')
+                #if date is not None: date_txt=date.text
+                #publisher=publisherStmt.find('.//{http://www.tei-c.org/ns/1.0}publisher')
+                #if publisher is not None: publisher_txt=publisher.text
+                #publisher_data = {"Publisher": publisher_txt, "Date": date_txt}
+                #publishers_data.append(publisher_data)
+                #print("publisher",publisher_txt)
 
 
+            #--------------DOI-------------
+            doi_txt="None"
+            doi=root.find('.//{http://www.tei-c.org/ns/1.0}idno[@type="DOI"]')
+            if doi is not None: doi_txt=doi.text
+            data={"DOI":abstract_txt}
+            doi_struct="https://doi.org/"+doi_txt
+            pdf_data["DOI"] = doi_struct
+            
+            print(doi_struct)
 
-                publisher = root.find('./availability[1]')
-                print(publisher)
-
-
-
-            pdf_data["Publisher"] = publishers_data
         all_data.append(pdf_data)
     print(i)
     i=i+1
-#json_data = json.dumps(all_data, indent=4)
-#with open('datos.json', 'w') as f:
-    #f.write(json_data)
+json_data = json.dumps(all_data, indent=4)
+with open('datos.json', 'w') as f:
+    f.write(json_data)
+    print("JSON HECHO")
 
 
 
