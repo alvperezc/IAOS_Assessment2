@@ -1,0 +1,373 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix map: <http://mapping.example.com/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix ex: <http://www.semanticweb.org/IA_Assessment2#> .
+
+map:map_author_000 rml:logicalSource map:source_001 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "author" ;
+	rr:predicateObjectMap map:pom_008, map:pom_009, map:pom_010, map:pom_011 ;
+	rr:subjectMap map:s_001 .
+
+map:map_organization_000 rml:logicalSource map:source_002 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "organization" ;
+	rr:predicateObjectMap map:pom_012, map:pom_013, map:pom_014, map:pom_015 ;
+	rr:subjectMap map:s_002 .
+
+map:map_paper_000 rml:logicalSource map:source_000 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "paper" ;
+	rr:predicateObjectMap map:pom_000, map:pom_001, map:pom_002, map:pom_003, map:pom_004, map:pom_005, map:pom_006, map:pom_007 ;
+	rr:subjectMap map:s_000 .
+
+map:map_project_000 rml:logicalSource map:source_003 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "project" ;
+	rr:predicateObjectMap map:pom_016, map:pom_017, map:pom_018 ;
+	rr:subjectMap map:s_003 .
+
+map:map_result_000 rml:logicalSource map:source_004 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "result" ;
+	rr:predicateObjectMap map:pom_019, map:pom_020, map:pom_021 ;
+	rr:subjectMap map:s_004 .
+
+map:map_topic_000 rml:logicalSource map:source_005 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "topic" ;
+	rr:predicateObjectMap map:pom_022, map:pom_023, map:pom_024 ;
+	rr:subjectMap map:s_005 .
+
+map:om_000 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.semanticweb.org/IA_Assessment2#Paper" ;
+	rr:termType rr:IRI .
+
+map:om_001 rml:reference "Title" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_002 rml:reference "Abstract" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_003 rml:reference "DOI" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_004 rml:reference "KeyWords" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_005 rml:reference "PublicationDate" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_006 rml:reference "PublicationHost" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_007 rdf:type rr:ObjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Author/{AuthorIDs}" ;
+	rr:termType rr:IRI .
+
+map:om_008 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.semanticweb.org/IA_Assessment2#Author" ;
+	rr:termType rr:IRI .
+
+map:om_009 rml:reference "Forename" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_010 rml:reference "Surname" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_011 rdf:type rr:ObjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Organization/{Organizations_IDs}" ;
+	rr:termType rr:IRI .
+
+map:om_012 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.semanticweb.org/IA_Assessment2#Organization" ;
+	rr:termType rr:IRI .
+
+map:om_013 rml:reference "OrgName" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_014 rml:reference "OrgURL" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_015 rml:reference "OrgROR" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_016 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.semanticweb.org/IA_Assessment2#Project" ;
+	rr:termType rr:IRI .
+
+map:om_017 rml:reference "Project_Name" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_018 rdf:type rr:ObjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Paper/{PaperID}" ;
+	rr:termType rr:IRI .
+
+map:om_019 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.semanticweb.org/IA_Assessment2#Results" ;
+	rr:termType rr:IRI .
+
+map:om_020 rml:reference "accuracy" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:decimal ;
+	rr:termType rr:Literal .
+
+map:om_021 rdf:type rr:ObjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Paper/{PaperID}" ;
+	rr:termType rr:IRI .
+
+map:om_022 rdf:type rr:ObjectMap ;
+	rr:constant "http://www.semanticweb.org/IA_Assessment2#Topic" ;
+	rr:termType rr:IRI .
+
+map:om_023 rml:reference "KeyWords" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_024 rdf:type rr:ObjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Results/{ResultID}" ;
+	rr:termType rr:IRI .
+
+map:pm_000 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_001 rdf:type rr:PredicateMap ;
+	rr:constant ex:Title .
+
+map:pm_002 rdf:type rr:PredicateMap ;
+	rr:constant ex:Abstract .
+
+map:pm_003 rdf:type rr:PredicateMap ;
+	rr:constant ex:DOI .
+
+map:pm_004 rdf:type rr:PredicateMap ;
+	rr:constant ex:KeyWords .
+
+map:pm_005 rdf:type rr:PredicateMap ;
+	rr:constant ex:PublicationDate .
+
+map:pm_006 rdf:type rr:PredicateMap ;
+	rr:constant ex:PublicationHost .
+
+map:pm_007 rdf:type rr:PredicateMap ;
+	rr:constant ex:is_written_by_author .
+
+map:pm_008 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_009 rdf:type rr:PredicateMap ;
+	rr:constant ex:Forename .
+
+map:pm_010 rdf:type rr:PredicateMap ;
+	rr:constant ex:Surname .
+
+map:pm_011 rdf:type rr:PredicateMap ;
+	rr:constant ex:works_in_organization .
+
+map:pm_012 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_013 rdf:type rr:PredicateMap ;
+	rr:constant ex:Organization_Name .
+
+map:pm_014 rdf:type rr:PredicateMap ;
+	rr:constant ex:OrgURL .
+
+map:pm_015 rdf:type rr:PredicateMap ;
+	rr:constant ex:OrgROR .
+
+map:pm_016 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_017 rdf:type rr:PredicateMap ;
+	rr:constant ex:Project_Name .
+
+map:pm_018 rdf:type rr:PredicateMap ;
+	rr:constant ex:finances_a_paper .
+
+map:pm_019 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_020 rdf:type rr:PredicateMap ;
+	rr:constant ex:accuracy .
+
+map:pm_021 rdf:type rr:PredicateMap ;
+	rr:constant ex:belongs_to_paper .
+
+map:pm_022 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_023 rdf:type rr:PredicateMap ;
+	rr:constant ex:KeyWords .
+
+map:pm_024 rdf:type rr:PredicateMap ;
+	rr:constant ex:best_result .
+
+map:pom_000 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_000 ;
+	rr:predicateMap map:pm_000 .
+
+map:pom_001 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_001 ;
+	rr:predicateMap map:pm_001 .
+
+map:pom_002 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_002 ;
+	rr:predicateMap map:pm_002 .
+
+map:pom_003 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_003 ;
+	rr:predicateMap map:pm_003 .
+
+map:pom_004 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_004 ;
+	rr:predicateMap map:pm_004 .
+
+map:pom_005 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_005 ;
+	rr:predicateMap map:pm_005 .
+
+map:pom_006 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_006 ;
+	rr:predicateMap map:pm_006 .
+
+map:pom_007 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_007 ;
+	rr:predicateMap map:pm_007 .
+
+map:pom_008 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_008 ;
+	rr:predicateMap map:pm_008 .
+
+map:pom_009 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_009 ;
+	rr:predicateMap map:pm_009 .
+
+map:pom_010 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_010 ;
+	rr:predicateMap map:pm_010 .
+
+map:pom_011 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_011 ;
+	rr:predicateMap map:pm_011 .
+
+map:pom_012 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_012 ;
+	rr:predicateMap map:pm_012 .
+
+map:pom_013 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_013 ;
+	rr:predicateMap map:pm_013 .
+
+map:pom_014 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_014 ;
+	rr:predicateMap map:pm_014 .
+
+map:pom_015 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_015 ;
+	rr:predicateMap map:pm_015 .
+
+map:pom_016 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_016 ;
+	rr:predicateMap map:pm_016 .
+
+map:pom_017 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_017 ;
+	rr:predicateMap map:pm_017 .
+
+map:pom_018 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_018 ;
+	rr:predicateMap map:pm_018 .
+
+map:pom_019 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_019 ;
+	rr:predicateMap map:pm_019 .
+
+map:pom_020 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_020 ;
+	rr:predicateMap map:pm_020 .
+
+map:pom_021 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_021 ;
+	rr:predicateMap map:pm_021 .
+
+map:pom_022 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_022 ;
+	rr:predicateMap map:pm_022 .
+
+map:pom_023 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_023 ;
+	rr:predicateMap map:pm_023 .
+
+map:pom_024 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_024 ;
+	rr:predicateMap map:pm_024 .
+
+map:rules_000 <http://rdfs.org/ns/void#exampleResource> map:map_author_000, map:map_organization_000, map:map_paper_000, map:map_project_000, map:map_result_000, map:map_topic_000 ;
+	rdf:type <http://rdfs.org/ns/void#Dataset> .
+
+map:s_000 rdf:type rr:SubjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Paper/{ID_Paper}" .
+
+map:s_001 rdf:type rr:SubjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Author/{ID_Author}" .
+
+map:s_002 rdf:type rr:SubjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Organization/{OrgID}" .
+
+map:s_003 rdf:type rr:SubjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Project/{ID_Project}" .
+
+map:s_004 rdf:type rr:SubjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Results/{ID_Result}" .
+
+map:s_005 rdf:type rr:SubjectMap ;
+	rr:template "http://www.semanticweb.org/IA_Assessment2#Topic/{Topic_name}" .
+
+map:source_000 rml:iterator "$.Paper[*]" ;
+	rml:referenceFormulation ql:JSONPath ;
+	rml:source "../data/data2.json" ;
+	rdf:type rml:LogicalSource .
+
+map:source_001 rml:iterator "$.Paper[*].Author[*]" ;
+	rml:referenceFormulation ql:JSONPath ;
+	rml:source "../data/data2.json" ;
+	rdf:type rml:LogicalSource .
+
+map:source_002 rml:iterator "$.Paper[*].Author[*].Organization[*]" ;
+	rml:referenceFormulation ql:JSONPath ;
+	rml:source "../data/data2.json" ;
+	rdf:type rml:LogicalSource .
+
+map:source_003 rml:iterator "$.Paper[*].Project[*]" ;
+	rml:referenceFormulation ql:JSONPath ;
+	rml:source "../data/data2.json" ;
+	rdf:type rml:LogicalSource .
+
+map:source_004 rml:iterator "$.Paper[*].Result" ;
+	rml:referenceFormulation ql:JSONPath ;
+	rml:source "../data/data2.json" ;
+	rdf:type rml:LogicalSource .
+
+map:source_005 rml:iterator "$.Paper[*].Topic" ;
+	rml:referenceFormulation ql:JSONPath ;
+	rml:source "../data/data2.json" ;
+	rdf:type rml:LogicalSource .
+
