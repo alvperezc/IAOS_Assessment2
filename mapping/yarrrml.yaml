@@ -1,0 +1,67 @@
+prefixes:
+ ex: http://www.semanticweb.org/IA_Assessment2#
+ xsd: http://www.w3.org/2001/XMLSchema#
+
+mappings:
+
+  paper:
+    sources:
+      - ['data.json~jsonpath', '$.Paper[*]']
+    s: ex:Paper/$(ID_Paper)
+    po:
+      - [a, ex:Paper]
+      - [ex:Title, $(Title)]
+      - [ex:Abstract, $(Abstract)]
+      - [ex:DOI, $(DOI)]
+      - [ex:KeyWords, $(KeyWords)]
+      - [ex:PublicationDate, $(PublicationDate)]
+      - [ex:PublicationHost, $(PublicationHost)]
+      - [ex:is_written_by_author, ex:Author/$(AuthorIDs)~iri]
+        
+  author:
+    sources:
+      - ['data2.json~jsonpath', '$.Paper[*].Author[*]']
+    s: ex:Author/$(ID_Author)
+    po:
+      - [a, ex:Author]
+      - [ex:Forename, $(Forename)]
+      - [ex:Surname, $(Surname)]
+      - [ex:works_in_organization, ex:Organization/$(Organizations_IDs)~iri]
+      
+  organization:
+    sources:
+      - ['data2.json~jsonpath', '$.Paper[*].Author[*].Organization[*]']
+    s: ex:Organization/$(OrgID)
+    po:
+      - [a, ex:Organization]
+      - [ex:Organization_Name, $(OrgName)]
+      - [ex:OrgURL, $(OrgURL)]
+      - [ex:OrgROR, $(OrgROR)]
+      
+  project:
+    sources:
+      - ['data2.json~jsonpath', '$.Paper[*].Project[*]']
+    s: ex:Project/$(ID_Project)
+    po:
+      - [a, ex:Project]
+      - [ex:Project_Name, $(Project_Name)]
+      - [ex:finances_a_paper, ex:Paper/$(PaperID)~iri]
+      
+  result:
+    sources:
+      - ['data2.json~jsonpath', '$.Paper[*].Result[*]']
+    s: ex:Results/$(ID_Result)
+    po:
+      - [a, ex:Results]
+      - [ex:accuracy, $(accuracy),xsd:decimal]
+      - [ex:belongs_to_paper, ex:Paper/$(PaperID)~iri]
+
+
+  topic:
+    sources:
+      - ['data2.json~jsonpath', '$.Paper[*].Topic']
+    s: ex:Topic/$(Topic_name)
+    po:
+      - [a, ex:Topic]
+      - [ex:KeyWords, $(KeyWords)]
+      - [ex:best_result, ex:Result/$(ResultID)~iri]
