@@ -1,0 +1,563 @@
+<http://www.semanticweb.org/IA_Assessment2#Paper/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/1> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1017/S0950268823000031".
+<http://www.semanticweb.org/IA_Assessment2#Paper/1> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2023-01-09".
+<http://www.semanticweb.org/IA_Assessment2#Paper/1> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Cambridge University Press".
+<http://www.semanticweb.org/IA_Assessment2#Paper/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/2> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1093/cid/ciac055".
+<http://www.semanticweb.org/IA_Assessment2#Paper/2> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2022-02-08".
+<http://www.semanticweb.org/IA_Assessment2#Paper/2> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Oxford University Press".
+<http://www.semanticweb.org/IA_Assessment2#Paper/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/3> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1007/s10393-020-01471-2".
+<http://www.semanticweb.org/IA_Assessment2#Paper/3> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2020-02-14".
+<http://www.semanticweb.org/IA_Assessment2#Paper/3> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Springer Science+Business Media".
+<http://www.semanticweb.org/IA_Assessment2#Paper/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/4> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12879-019-3797-6".
+<http://www.semanticweb.org/IA_Assessment2#Paper/4> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2019-05-03".
+<http://www.semanticweb.org/IA_Assessment2#Paper/4> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/5> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/None".
+<http://www.semanticweb.org/IA_Assessment2#Paper/5> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2019-05-03".
+<http://www.semanticweb.org/IA_Assessment2#Paper/5> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/6> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12879-022-07301-w".
+<http://www.semanticweb.org/IA_Assessment2#Paper/6> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2022-04-03".
+<http://www.semanticweb.org/IA_Assessment2#Paper/6> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/7> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1016/j.ijid.2023.01.013".
+<http://www.semanticweb.org/IA_Assessment2#Paper/7> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2023-01-14".
+<http://www.semanticweb.org/IA_Assessment2#Paper/7> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Elsevier BV".
+<http://www.semanticweb.org/IA_Assessment2#Paper/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/8> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1016/j.socscimed.2018.04.021".
+<http://www.semanticweb.org/IA_Assessment2#Paper/8> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2018-05-17".
+<http://www.semanticweb.org/IA_Assessment2#Paper/8> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Elsevier BV".
+<http://www.semanticweb.org/IA_Assessment2#Paper/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/9> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12879-019-3869-7".
+<http://www.semanticweb.org/IA_Assessment2#Paper/9> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2019-05-16".
+<http://www.semanticweb.org/IA_Assessment2#Paper/9> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/10> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1016/j.ijid.2012.05.320".
+<http://www.semanticweb.org/IA_Assessment2#Paper/10> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/10> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Elsevier BV".
+<http://www.semanticweb.org/IA_Assessment2#Paper/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/11> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1016/j.envres.2019.108577".
+<http://www.semanticweb.org/IA_Assessment2#Paper/11> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2019-07-12".
+<http://www.semanticweb.org/IA_Assessment2#Paper/11> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Elsevier BV".
+<http://www.semanticweb.org/IA_Assessment2#Paper/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/12> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.2807/1560-7917.ES.2018.23.16.17-00454".
+<http://www.semanticweb.org/IA_Assessment2#Paper/12> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2018-05-17".
+<http://www.semanticweb.org/IA_Assessment2#Paper/12> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "European Centre for Disease Prevention and Control".
+<http://www.semanticweb.org/IA_Assessment2#Paper/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/13> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1093/inthealth/ihv040".
+<http://www.semanticweb.org/IA_Assessment2#Paper/13> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/13> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Oxford University Press".
+<http://www.semanticweb.org/IA_Assessment2#Paper/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/14> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1016/j.jiph.2009.02.001".
+<http://www.semanticweb.org/IA_Assessment2#Paper/14> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/14> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Elsevier BV".
+<http://www.semanticweb.org/IA_Assessment2#Paper/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/15> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.5455/aim.2017.25.271-276".
+<http://www.semanticweb.org/IA_Assessment2#Paper/15> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2017-12-04".
+<http://www.semanticweb.org/IA_Assessment2#Paper/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/16> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1016/j.jegh.2016.02.003".
+<http://www.semanticweb.org/IA_Assessment2#Paper/16> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/16> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Elsevier BV".
+<http://www.semanticweb.org/IA_Assessment2#Paper/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/17> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.47176/mjiri.35.x".
+<http://www.semanticweb.org/IA_Assessment2#Paper/17> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/17> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Elsevier BV".
+<http://www.semanticweb.org/IA_Assessment2#Paper/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/18> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.3390/ijerph120911025".
+<http://www.semanticweb.org/IA_Assessment2#Paper/18> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/18> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "MDPI".
+<http://www.semanticweb.org/IA_Assessment2#Paper/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/19> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.3402/ehtj.v6i0.19958".
+<http://www.semanticweb.org/IA_Assessment2#Paper/19> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/19> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Co-Action Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/20> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12879-019-4551-9".
+<http://www.semanticweb.org/IA_Assessment2#Paper/20> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2019-11-01".
+<http://www.semanticweb.org/IA_Assessment2#Paper/20> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/21> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s13023-020-01534-1".
+<http://www.semanticweb.org/IA_Assessment2#Paper/21> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2020-10-22".
+<http://www.semanticweb.org/IA_Assessment2#Paper/21> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "BioMed Central".
+<http://www.semanticweb.org/IA_Assessment2#Paper/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/22> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12910-020-00474-6".
+<http://www.semanticweb.org/IA_Assessment2#Paper/22> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2020-05-01".
+<http://www.semanticweb.org/IA_Assessment2#Paper/22> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Springer Science+Business Media".
+<http://www.semanticweb.org/IA_Assessment2#Paper/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/23> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12889-021-12148-y".
+<http://www.semanticweb.org/IA_Assessment2#Paper/23> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2021-11-22".
+<http://www.semanticweb.org/IA_Assessment2#Paper/23> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "BioMed Central".
+<http://www.semanticweb.org/IA_Assessment2#Paper/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/24> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.3390/nu13103317".
+<http://www.semanticweb.org/IA_Assessment2#Paper/24> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2021-09-27".
+<http://www.semanticweb.org/IA_Assessment2#Paper/24> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "MDPI".
+<http://www.semanticweb.org/IA_Assessment2#Paper/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/25> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12879-019-4362-z".
+<http://www.semanticweb.org/IA_Assessment2#Paper/25> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2019-08-22".
+<http://www.semanticweb.org/IA_Assessment2#Paper/25> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/26> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/None".
+<http://www.semanticweb.org/IA_Assessment2#Paper/26> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2019-08-22".
+<http://www.semanticweb.org/IA_Assessment2#Paper/26> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/27> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1186/s12889-017-4319-3".
+<http://www.semanticweb.org/IA_Assessment2#Paper/27> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2017-05-19".
+<http://www.semanticweb.org/IA_Assessment2#Paper/27> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "BioMed Central".
+<http://www.semanticweb.org/IA_Assessment2#Paper/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/28> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.3402/ehtj.v6i0.19950".
+<http://www.semanticweb.org/IA_Assessment2#Paper/28> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/28> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Co-Action Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/29> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1177/1460458215595259".
+<http://www.semanticweb.org/IA_Assessment2#Paper/29> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2016-06-24".
+<http://www.semanticweb.org/IA_Assessment2#Paper/29> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "SAGE Publishing".
+<http://www.semanticweb.org/IA_Assessment2#Paper/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Paper>.
+<http://www.semanticweb.org/IA_Assessment2#Paper/30> <http://www.semanticweb.org/IA_Assessment2#DOI> "https://doi.org/10.1057/s41267-022-00512-y".
+<http://www.semanticweb.org/IA_Assessment2#Paper/30> <http://www.semanticweb.org/IA_Assessment2#PublicationDate> "2022-05-05".
+<http://www.semanticweb.org/IA_Assessment2#Paper/30> <http://www.semanticweb.org/IA_Assessment2#PublicationHost> "Palgrave Macmillan".
+<http://www.semanticweb.org/IA_Assessment2#Organization/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/20> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Erasmus MC".
+<http://www.semanticweb.org/IA_Assessment2#Organization/20> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.erasmusmc.nl/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/20> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/018906e22".
+<http://www.semanticweb.org/IA_Assessment2#Organization/47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/47> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Fogarty International Center".
+<http://www.semanticweb.org/IA_Assessment2#Organization/47> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.fic.nih.gov/Pages/Default.aspx".
+<http://www.semanticweb.org/IA_Assessment2#Organization/47> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02xey9a22".
+<http://www.semanticweb.org/IA_Assessment2#Organization/48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/48> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "National Institutes of Health".
+<http://www.semanticweb.org/IA_Assessment2#Organization/48> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.nih.gov/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/48> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01cwqze88".
+<http://www.semanticweb.org/IA_Assessment2#Organization/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/4> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "National Health Laboratory Service".
+<http://www.semanticweb.org/IA_Assessment2#Organization/4> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.nhls.ac.za/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/4> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00znvbk37".
+<http://www.semanticweb.org/IA_Assessment2#Organization/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/5> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of the Witwatersrand".
+<http://www.semanticweb.org/IA_Assessment2#Organization/5> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.wits.ac.za/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/5> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03rp50x72".
+<http://www.semanticweb.org/IA_Assessment2#Organization/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/49> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Stellenbosch University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/49> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.sun.ac.za/english".
+<http://www.semanticweb.org/IA_Assessment2#Organization/49> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05bk57929".
+<http://www.semanticweb.org/IA_Assessment2#Organization/50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/50> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Clinical Division, Netcare Limited, Johannesburg, South Africa.".
+<http://www.semanticweb.org/IA_Assessment2#Organization/50> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/50> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/51> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Emergency and Trauma Department, Netcare Limited, Johannesburg, South Africa.".
+<http://www.semanticweb.org/IA_Assessment2#Organization/51> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/51> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/58> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of California, Davis".
+<http://www.semanticweb.org/IA_Assessment2#Organization/58> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://ucdavis.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/58> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05rrcem69".
+<http://www.semanticweb.org/IA_Assessment2#Organization/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/59> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Wuhan Institute of Virology".
+<http://www.semanticweb.org/IA_Assessment2#Organization/59> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://english.whiov.cas.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/59> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01jxjav08".
+<http://www.semanticweb.org/IA_Assessment2#Organization/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/60> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Chinese Academy of Sciences".
+<http://www.semanticweb.org/IA_Assessment2#Organization/60> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://english.cas.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/60> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/034t30j35".
+<http://www.semanticweb.org/IA_Assessment2#Organization/61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/61> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of California, Berkeley".
+<http://www.semanticweb.org/IA_Assessment2#Organization/61> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.berkeley.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/61> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01an7q238".
+<http://www.semanticweb.org/IA_Assessment2#Organization/62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/62> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "EcoHealth Alliance".
+<http://www.semanticweb.org/IA_Assessment2#Organization/62> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.ecohealthalliance.org/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/62> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02zv3m156".
+<http://www.semanticweb.org/IA_Assessment2#Organization/63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/63> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Oklahoma".
+<http://www.semanticweb.org/IA_Assessment2#Organization/63> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.ou.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/63> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02aqsxs83".
+<http://www.semanticweb.org/IA_Assessment2#Organization/64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/64> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Colorado State University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/64> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.colostate.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/64> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03k1gpj17".
+<http://www.semanticweb.org/IA_Assessment2#Organization/65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/65> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Arizona".
+<http://www.semanticweb.org/IA_Assessment2#Organization/65> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.arizona.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/65> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03m2x1q45".
+<http://www.semanticweb.org/IA_Assessment2#Organization/66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/66> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Fujian Agriculture and Forestry University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/66> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://english.fafu.edu.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/66> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04kx2sy84".
+<http://www.semanticweb.org/IA_Assessment2#Organization/67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/67> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Emory University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/67> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.emory.edu/home/index.html".
+<http://www.semanticweb.org/IA_Assessment2#Organization/67> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03czfpz43".
+<http://www.semanticweb.org/IA_Assessment2#Organization/68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/68> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Virginia Tech".
+<http://www.semanticweb.org/IA_Assessment2#Organization/68> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.vt.edu/about/index.html".
+<http://www.semanticweb.org/IA_Assessment2#Organization/68> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02smfhw86".
+<http://www.semanticweb.org/IA_Assessment2#Organization/69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/69> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "New York State College of Veterinary Medicine".
+<http://www.semanticweb.org/IA_Assessment2#Organization/69> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.vet.cornell.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/69> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04r17kf39".
+<http://www.semanticweb.org/IA_Assessment2#Organization/70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/70> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Maryland, College Park".
+<http://www.semanticweb.org/IA_Assessment2#Organization/70> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.umd.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/70> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/047s2c258".
+<http://www.semanticweb.org/IA_Assessment2#Organization/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/24> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "National Institute for Communicable Disease Control and Prevention".
+<http://www.semanticweb.org/IA_Assessment2#Organization/24> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.icdc.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/24> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04f7g6845".
+<http://www.semanticweb.org/IA_Assessment2#Organization/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/21> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Sun Yat-sen University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/21> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.sysu.edu.cn/2012/en/index.htm".
+<http://www.semanticweb.org/IA_Assessment2#Organization/21> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/0064kty71".
+<http://www.semanticweb.org/IA_Assessment2#Organization/71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/71> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Kansas State University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/71> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.k-state.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/71> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05p1j8758".
+<http://www.semanticweb.org/IA_Assessment2#Organization/72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/72> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Shenzhen Center for Disease Control and Prevention".
+<http://www.semanticweb.org/IA_Assessment2#Organization/72> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.szcdc.net/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/72> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01jbc0c43".
+<http://www.semanticweb.org/IA_Assessment2#Organization/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/73> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Fudan University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/73> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.fudan.edu.cn/en/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/73> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/013q1eq08".
+<http://www.semanticweb.org/IA_Assessment2#Organization/74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/74> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Guangdong Pharmaceutical University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/74> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.gdpu.edu.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/74> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02vg7mz57".
+<http://www.semanticweb.org/IA_Assessment2#Organization/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/75> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Yangzhou University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/75> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://english.yzu.edu.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/75> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03tqb8s11".
+<http://www.semanticweb.org/IA_Assessment2#Organization/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/7> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of KwaZulu-Natal".
+<http://www.semanticweb.org/IA_Assessment2#Organization/7> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.ukzn.ac.za/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/7> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04qzfn040".
+<http://www.semanticweb.org/IA_Assessment2#Organization/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/8> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Marie Bashir Institute for Infectious Diseases and Biosecurity & Sydney Medical School, Westmead, University of Sydney, Sydney, Australia.".
+<http://www.semanticweb.org/IA_Assessment2#Organization/8> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/8> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/22> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Zhejiang Center for Disease Control and Prevention".
+<http://www.semanticweb.org/IA_Assessment2#Organization/22> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.cdc.zj.cn/bornwcms/index/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/22> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03f015z81".
+<http://www.semanticweb.org/IA_Assessment2#Organization/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/23> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Zhengzhou University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/23> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.zzu.edu.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/23> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04ypx8c21".
+<http://www.semanticweb.org/IA_Assessment2#Organization/55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/55> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Beppu Medical Center".
+<http://www.semanticweb.org/IA_Assessment2#Organization/55> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.beppu-iryou.jp/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/55> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04661b187".
+<http://www.semanticweb.org/IA_Assessment2#Organization/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/56> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "National Hospital Organization".
+<http://www.semanticweb.org/IA_Assessment2#Organization/56> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.hosp.go.jp/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/56> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03ntccx93".
+<http://www.semanticweb.org/IA_Assessment2#Organization/57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/57> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Occupational and Environmental Health Japan".
+<http://www.semanticweb.org/IA_Assessment2#Organization/57> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.uoeh-u.ac.jp/index_e.html".
+<http://www.semanticweb.org/IA_Assessment2#Organization/57> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/020p3h829".
+<http://www.semanticweb.org/IA_Assessment2#Organization/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/28> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Adelaide".
+<http://www.semanticweb.org/IA_Assessment2#Organization/28> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.adelaide.edu.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/28> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00892tw58".
+<http://www.semanticweb.org/IA_Assessment2#Organization/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/29> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Chinese Center For Disease Control and Prevention".
+<http://www.semanticweb.org/IA_Assessment2#Organization/29> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.chinacdc.cn/en/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/29> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04wktzw65".
+<http://www.semanticweb.org/IA_Assessment2#Organization/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/33> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Center for Disease Control".
+<http://www.semanticweb.org/IA_Assessment2#Organization/33> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.cdc.gov.tw/english/index.aspx".
+<http://www.semanticweb.org/IA_Assessment2#Organization/33> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04hsdam77".
+<http://www.semanticweb.org/IA_Assessment2#Organization/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/30> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Anhui Medical University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/30> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.ahmu.edu.cn/english/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/30> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03xb04968".
+<http://www.semanticweb.org/IA_Assessment2#Organization/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/34> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Monash University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/34> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.monash.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/34> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02bfwt286".
+<http://www.semanticweb.org/IA_Assessment2#Organization/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/6> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Centers for Disease Control and Prevention".
+<http://www.semanticweb.org/IA_Assessment2#Organization/6> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.cdc.gov/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/6> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/042twtr12".
+<http://www.semanticweb.org/IA_Assessment2#Organization/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/9> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Federal Ministry of Health".
+<http://www.semanticweb.org/IA_Assessment2#Organization/9> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://fmoh.gov.sd/En/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/9> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01d59nd22".
+<http://www.semanticweb.org/IA_Assessment2#Organization/52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/52> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Shandong Academy of Medical Science".
+<http://www.semanticweb.org/IA_Assessment2#Organization/52> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.sdams.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/52> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05jb9pq57".
+<http://www.semanticweb.org/IA_Assessment2#Organization/53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/53> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Shandong University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/53> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://en.sdu.edu.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/53> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/0207yh398".
+<http://www.semanticweb.org/IA_Assessment2#Organization/54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/54> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Shandong Maternal and Child Health Hospital".
+<http://www.semanticweb.org/IA_Assessment2#Organization/54> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.sdmch.org.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/54> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04ger2z06".
+<http://www.semanticweb.org/IA_Assessment2#Organization/109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/109> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "European Centre for Disease Prevention and Control".
+<http://www.semanticweb.org/IA_Assessment2#Organization/109> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://ecdc.europa.eu/en/Pages/home.aspx".
+<http://www.semanticweb.org/IA_Assessment2#Organization/109> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00s9v1h75".
+<http://www.semanticweb.org/IA_Assessment2#Organization/46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/46> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University Medical Center Utrecht".
+<http://www.semanticweb.org/IA_Assessment2#Organization/46> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.umcutrecht.nl/nl/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/46> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/0575yy874".
+<http://www.semanticweb.org/IA_Assessment2#Organization/110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/110> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "German Federal Environment Agency".
+<http://www.semanticweb.org/IA_Assessment2#Organization/110> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.umweltbundesamt.de/en/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/110> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/0329ynx05".
+<http://www.semanticweb.org/IA_Assessment2#Organization/44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/44> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "National Institute for Public Health and the Environment".
+<http://www.semanticweb.org/IA_Assessment2#Organization/44> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.rivm.nl/en/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/44> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01cesdt21".
+<http://www.semanticweb.org/IA_Assessment2#Organization/111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/111> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Florida".
+<http://www.semanticweb.org/IA_Assessment2#Organization/111> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.ufl.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/111> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02y3ad647".
+<http://www.semanticweb.org/IA_Assessment2#Organization/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/36> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Cape Town".
+<http://www.semanticweb.org/IA_Assessment2#Organization/36> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.uct.ac.za/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/36> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03p74gp79".
+<http://www.semanticweb.org/IA_Assessment2#Organization/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/37> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "MRC Epidemiology Unit".
+<http://www.semanticweb.org/IA_Assessment2#Organization/37> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.mrc-epid.cam.ac.uk/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/37> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/052578691".
+<http://www.semanticweb.org/IA_Assessment2#Organization/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/38> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Cambridge".
+<http://www.semanticweb.org/IA_Assessment2#Organization/38> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.cam.ac.uk/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/38> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/013meh722".
+<http://www.semanticweb.org/IA_Assessment2#Organization/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/39> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of the West Indies".
+<http://www.semanticweb.org/IA_Assessment2#Organization/39> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://cavehill.uwi.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/39> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05p4f7w60".
+<http://www.semanticweb.org/IA_Assessment2#Organization/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/35> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Ahmadu Bello University Teaching Hospital".
+<http://www.semanticweb.org/IA_Assessment2#Organization/35> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://abuth.org.ng/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/35> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03237y496".
+<http://www.semanticweb.org/IA_Assessment2#Organization/76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/76> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Shahid Beheshti University of Medical Sciences".
+<http://www.semanticweb.org/IA_Assessment2#Organization/76> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://en.sbmu.ac.ir/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/76> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/034m2b326".
+<http://www.semanticweb.org/IA_Assessment2#Organization/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/31> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Communications and Media Studies, School of Media, Film and Journalism, Monash University, Clayton 3800, Australia.".
+<http://www.semanticweb.org/IA_Assessment2#Organization/31> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/31> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/32> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of South Australia".
+<http://www.semanticweb.org/IA_Assessment2#Organization/32> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.unisa.edu.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/32> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01p93h210".
+<http://www.semanticweb.org/IA_Assessment2#Organization/77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/77> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Sokoine University of Agriculture".
+<http://www.semanticweb.org/IA_Assessment2#Organization/77> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://suanet.ac.tz/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/77> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00jdryp44".
+<http://www.semanticweb.org/IA_Assessment2#Organization/78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/78> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Southern African Centre for Infectious Disease Surveillance".
+<http://www.semanticweb.org/IA_Assessment2#Organization/78> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.sacids.org/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/78> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00h8ebz08".
+<http://www.semanticweb.org/IA_Assessment2#Organization/79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/79> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Ministry of Health and Social Welfare".
+<http://www.semanticweb.org/IA_Assessment2#Organization/79> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.moh.go.tz/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/79> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03vt2s541".
+<http://www.semanticweb.org/IA_Assessment2#Organization/80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/80> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Eduardo Mondlane University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/80> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.uem.mz/index.php".
+<http://www.semanticweb.org/IA_Assessment2#Organization/80> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05n8n9378".
+<http://www.semanticweb.org/IA_Assessment2#Organization/81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/81> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Kinshasa".
+<http://www.semanticweb.org/IA_Assessment2#Organization/81> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.unikin.cd/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/81> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05rrz2q74".
+<http://www.semanticweb.org/IA_Assessment2#Organization/82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/82> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Zambia".
+<http://www.semanticweb.org/IA_Assessment2#Organization/82> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.unza.zm/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/82> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03gh19d69".
+<http://www.semanticweb.org/IA_Assessment2#Organization/83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/83> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Muhimbili University of Health and Allied Sciences".
+<http://www.semanticweb.org/IA_Assessment2#Organization/83> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.muhas.ac.tz/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/83> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/027pr6c67".
+<http://www.semanticweb.org/IA_Assessment2#Organization/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/25> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "UNSW Sydney".
+<http://www.semanticweb.org/IA_Assessment2#Organization/25> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.unsw.edu.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/25> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03r8z3t63".
+<http://www.semanticweb.org/IA_Assessment2#Organization/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/26> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Zigong First People's Hospital".
+<http://www.semanticweb.org/IA_Assessment2#Organization/26> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.zgno1hos.com.cn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/26> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04khs3e04".
+<http://www.semanticweb.org/IA_Assessment2#Organization/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/27> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Heilongjiang Center for Tuberculosis Control and Prevention".
+<http://www.semanticweb.org/IA_Assessment2#Organization/27> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.hljtb.org/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/27> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01p2t4k13".
+<http://www.semanticweb.org/IA_Assessment2#Organization/98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/98> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Wollongong".
+<http://www.semanticweb.org/IA_Assessment2#Organization/98> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.uow.edu.au/index.html".
+<http://www.semanticweb.org/IA_Assessment2#Organization/98> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00jtmb277".
+<http://www.semanticweb.org/IA_Assessment2#Organization/99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/99> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Illawarra Health and Medical Research Institute".
+<http://www.semanticweb.org/IA_Assessment2#Organization/99> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.ihmri.org.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/99> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00dt9qb91".
+<http://www.semanticweb.org/IA_Assessment2#Organization/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/100> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "New South Wales Department of Health".
+<http://www.semanticweb.org/IA_Assessment2#Organization/100> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.health.nsw.gov.au/Pages/default.aspx".
+<http://www.semanticweb.org/IA_Assessment2#Organization/100> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03tb4gf50".
+<http://www.semanticweb.org/IA_Assessment2#Organization/101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/101> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Taronga Conservation Society Australia".
+<http://www.semanticweb.org/IA_Assessment2#Organization/101> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://taronga.org.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/101> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05v6jzw04".
+<http://www.semanticweb.org/IA_Assessment2#Organization/102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/102> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "The Centre for Infectious Diseases and Microbiology - Public Health, Sydney, Australia".
+<http://www.semanticweb.org/IA_Assessment2#Organization/102> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/102> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/103> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Sydney".
+<http://www.semanticweb.org/IA_Assessment2#Organization/103> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://sydney.edu.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/103> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/0384j8v12".
+<http://www.semanticweb.org/IA_Assessment2#Organization/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/104> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Cairns Hospital".
+<http://www.semanticweb.org/IA_Assessment2#Organization/104> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.health.qld.gov.au/services/cairns-hinterland/cairns_cairns_hosp.asp".
+<http://www.semanticweb.org/IA_Assessment2#Organization/104> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/029s9j634".
+<http://www.semanticweb.org/IA_Assessment2#Organization/105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/105> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "James Cook University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/105> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.jcu.edu.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/105> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04gsp2c11".
+<http://www.semanticweb.org/IA_Assessment2#Organization/106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/106> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Queensland".
+<http://www.semanticweb.org/IA_Assessment2#Organization/106> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.uq.edu.au/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/106> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00rqy9422".
+<http://www.semanticweb.org/IA_Assessment2#Organization/107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/107> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Public Health Wales".
+<http://www.semanticweb.org/IA_Assessment2#Organization/107> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://phw.nhs.wales/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/107> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00265c946".
+<http://www.semanticweb.org/IA_Assessment2#Organization/108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/108> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Bangor University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/108> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.bangor.ac.uk/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/108> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/006jb1a24".
+<http://www.semanticweb.org/IA_Assessment2#Organization/86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/86> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Johannesburg".
+<http://www.semanticweb.org/IA_Assessment2#Organization/86> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.uj.ac.za/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/86> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/04z6c2n17".
+<http://www.semanticweb.org/IA_Assessment2#Organization/87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/87> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Yale University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/87> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.yale.edu".
+<http://www.semanticweb.org/IA_Assessment2#Organization/87> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03v76x132".
+<http://www.semanticweb.org/IA_Assessment2#Organization/88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/88> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Centre for Addiction and Mental Health".
+<http://www.semanticweb.org/IA_Assessment2#Organization/88> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.camh.ca/en/hospital/Pages/home.aspx".
+<http://www.semanticweb.org/IA_Assessment2#Organization/88> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03e71c577".
+<http://www.semanticweb.org/IA_Assessment2#Organization/89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/89> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Public Health Ontario".
+<http://www.semanticweb.org/IA_Assessment2#Organization/89> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.publichealthontario.ca/EN/Pages/default.aspx".
+<http://www.semanticweb.org/IA_Assessment2#Organization/89> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/025z8ah66".
+<http://www.semanticweb.org/IA_Assessment2#Organization/90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/90> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Toronto".
+<http://www.semanticweb.org/IA_Assessment2#Organization/90> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.utoronto.ca/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/90> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03dbr7087".
+<http://www.semanticweb.org/IA_Assessment2#Organization/91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/91> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Connecticut".
+<http://www.semanticweb.org/IA_Assessment2#Organization/91> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://uconn.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/91> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02der9h97".
+<http://www.semanticweb.org/IA_Assessment2#Organization/92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/92> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "South African Medical Research Council".
+<http://www.semanticweb.org/IA_Assessment2#Organization/92> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.mrc.ac.za/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/92> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05q60vz69".
+<http://www.semanticweb.org/IA_Assessment2#Organization/93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/93> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "New York University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/93> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.nyu.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/93> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/0190ak572".
+<http://www.semanticweb.org/IA_Assessment2#Organization/94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/94> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University Medical Center Hamburg-Eppendorf".
+<http://www.semanticweb.org/IA_Assessment2#Organization/94> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.uke.de/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/94> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01zgy1s35".
+<http://www.semanticweb.org/IA_Assessment2#Organization/95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/95> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "TU Dresden".
+<http://www.semanticweb.org/IA_Assessment2#Organization/95> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://tu-dresden.de/en".
+<http://www.semanticweb.org/IA_Assessment2#Organization/95> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/042aqky30".
+<http://www.semanticweb.org/IA_Assessment2#Organization/96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/96> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Agencia de Salud Pública de Barcelona".
+<http://www.semanticweb.org/IA_Assessment2#Organization/96> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.aspb.cat/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/96> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/05qsezp22".
+<http://www.semanticweb.org/IA_Assessment2#Organization/97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/97> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Sechenov University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/97> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://sechenov.ru/eng/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/97> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02yqqv993".
+<http://www.semanticweb.org/IA_Assessment2#Organization/84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/84> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Yonsei University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/84> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.yonsei.ac.kr/eng/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/84> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01wjejq96".
+<http://www.semanticweb.org/IA_Assessment2#Organization/85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/85> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "National Center for Communicable Diseases".
+<http://www.semanticweb.org/IA_Assessment2#Organization/85> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.nccd.gov.mn/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/85> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00ta7av32".
+<http://www.semanticweb.org/IA_Assessment2#Organization/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/43> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Maastricht University".
+<http://www.semanticweb.org/IA_Assessment2#Organization/43> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.maastrichtuniversity.nl/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/43> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02jz4aj89".
+<http://www.semanticweb.org/IA_Assessment2#Organization/45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/45> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Public Health Service, region Utrecht, Zeist, The Netherlands".
+<http://www.semanticweb.org/IA_Assessment2#Organization/45> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/45> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/10> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Institute of Public Health".
+<http://www.semanticweb.org/IA_Assessment2#Organization/10> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://ishp.gov.al/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/10> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/000w57b95".
+<http://www.semanticweb.org/IA_Assessment2#Organization/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/11> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Sarajevo".
+<http://www.semanticweb.org/IA_Assessment2#Organization/11> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.unsa.ba/s/index.php".
+<http://www.semanticweb.org/IA_Assessment2#Organization/11> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02hhwgd43".
+<http://www.semanticweb.org/IA_Assessment2#Organization/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/12> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> " Ministry of Health, Sofia, Bulgaria".
+<http://www.semanticweb.org/IA_Assessment2#Organization/12> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/12> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/13> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Montenegro".
+<http://www.semanticweb.org/IA_Assessment2#Organization/13> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.ucg.ac.me/eng/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/13> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/02drrjp49".
+<http://www.semanticweb.org/IA_Assessment2#Organization/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/14> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Hrvatski zavod za javno zdravstvo".
+<http://www.semanticweb.org/IA_Assessment2#Organization/14> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.hzjz.hr/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/14> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/00h4fkb86".
+<http://www.semanticweb.org/IA_Assessment2#Organization/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/15> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> " Institute of Public Health, Bucharest, Romania".
+<http://www.semanticweb.org/IA_Assessment2#Organization/15> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/15> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/16> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Institute of Public Health of Serbia".
+<http://www.semanticweb.org/IA_Assessment2#Organization/16> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.batut.org.rs/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/16> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03pv0jn66".
+<http://www.semanticweb.org/IA_Assessment2#Organization/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/17> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Institute of public health of Republic of Macedonia".
+<http://www.semanticweb.org/IA_Assessment2#Organization/17> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.iph.mk/en/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/17> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/044qfk433".
+<http://www.semanticweb.org/IA_Assessment2#Organization/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/18> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> " Ministry of Health, Chiçinu, Moldova".
+<http://www.semanticweb.org/IA_Assessment2#Organization/18> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/18> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/19> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> " Ministry of Health, Skopje, Macedonia".
+<http://www.semanticweb.org/IA_Assessment2#Organization/19> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/19> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "None".
+<http://www.semanticweb.org/IA_Assessment2#Organization/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/1> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Seville".
+<http://www.semanticweb.org/IA_Assessment2#Organization/1> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.us.es/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/1> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03yxnpp24".
+<http://www.semanticweb.org/IA_Assessment2#Organization/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/2> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "University of Huelva".
+<http://www.semanticweb.org/IA_Assessment2#Organization/2> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://uhu.es/english/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/2> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03a1kt624".
+<http://www.semanticweb.org/IA_Assessment2#Organization/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/3> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Hospital Universitario Fundación Alcorcón".
+<http://www.semanticweb.org/IA_Assessment2#Organization/3> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "https://www.comunidad.madrid/hospital/fundacionalcorcon/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/3> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/01435q086".
+<http://www.semanticweb.org/IA_Assessment2#Organization/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/40> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Baruch College".
+<http://www.semanticweb.org/IA_Assessment2#Organization/40> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.baruch.cuny.edu/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/40> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/023qavy03".
+<http://www.semanticweb.org/IA_Assessment2#Organization/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/41> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Tecnológico de Monterrey".
+<http://www.semanticweb.org/IA_Assessment2#Organization/41> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.itesm.mx/".
+<http://www.semanticweb.org/IA_Assessment2#Organization/41> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03ayjn504".
+<http://www.semanticweb.org/IA_Assessment2#Organization/42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/IA_Assessment2#Organization>.
+<http://www.semanticweb.org/IA_Assessment2#Organization/42> <http://www.semanticweb.org/IA_Assessment2#Organization_Name> "Universidad EAFIT".
+<http://www.semanticweb.org/IA_Assessment2#Organization/42> <http://www.semanticweb.org/IA_Assessment2#OrgURL> "http://www.eafit.edu.co/Paginas/index.aspx".
+<http://www.semanticweb.org/IA_Assessment2#Organization/42> <http://www.semanticweb.org/IA_Assessment2#OrgROR> "https://ror.org/03y3y9v44".
